@@ -36,6 +36,18 @@ Currently exploring fullstack projects and high-efficiency freelance work.
 
 ---
 
+## 🔨 Work Examples
+
+| Project         | Stack                        | Description                                  |
+|-----------------|------------------------------|----------------------------------------------|
+| **Internal Tools** | Python, FastAPI, React       | Custom dashboards and tools for small teams  |
+| **Bots & Scrapers** | Python, Playwright, BeautifulSoup | High-speed data automation & crawling      |
+| **API Backends** | FastAPI, PostgreSQL, Supabase | Secure and fast APIs for web/mobile          |
+
+> Demo projects coming soon. Check pinned repos or DM for private samples.
+
+---
+
 ## 📬 Contact
 
 - Discord: `vzero911`

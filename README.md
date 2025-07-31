@@ -44,5 +44,3 @@ Currently exploring fullstack projects and high-efficiency freelance work.
 - Payment: PayPal (facturation freelance)
 
 ---
-
-<p align="center"><i>"Pour le mieux."</i></p>

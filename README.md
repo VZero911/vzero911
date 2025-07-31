@@ -41,6 +41,6 @@ Currently exploring fullstack projects and high-efficiency freelance work.
 - Discord: `vzero911`
 - GitHub: [@vzero911](https://github.com/vzero911)
 - Email / contact pro: vzero911@gmail.com
-- Payment: PayPal (facturation freelance) paypal.me/vzero911
+- Payment: PayPal (facturation freelance) [https://paypal.me/vzero911](https://www.paypal.com/paypalme/vzero911)
 
 ---

@@ -137,7 +137,7 @@ An evolving **Web3 + AI** environment, and its first use: a monster-collecting g
 
 ---
 
-<p align="center"><i>« Pour le mieux. »</i></p>
+<p align="center"><i>« Dream High, Assume Later. »</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2c14e,25:8f6cf0,60:5a3fd0,100:07060f&height=110&section=footer" alt="footer" width="100%" />

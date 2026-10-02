@@ -100,10 +100,23 @@ Not for today: real value needs audits and a legal frame first.
 
 ---
 
+## 🖤 The Seed OS — *something is growing*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07060f,100:221d44&height=90&section=header&text=The%20Seed%20OS&fontSize=34&fontColor=f2c14e&desc=coming%20from%20the%20kernel%20up&descSize=14&descAlignY=78&fontAlignY=42" alt="The Seed OS" width="70%" />
+</p>
+
+<p align="center"><i>Same seed. Another soil.</i><br/>
+An operating system, built from an Arch Linux base, where the wallet is the identity and the AI is
+not an app — it is part of the system.<br/>
+<b>Nothing more for now.</b> 👁️</p>
+
+---
+
 ## 🔭 Right now
 
 - 🌱 **The Seed** — marketplace UI, graphics V2, admin console in 3D, the first AI agents
-- 🐧 **The Seed OS** — an Arch Linux fork ([public](https://github.com/VZero911/The_Seed_OS.V0-Public-ArchLinux-Fork-))
+- 🖤 **The Seed OS** — classified 🤫 ([first sprout](https://github.com/VZero911/The_Seed_OS.V0-Public-ArchLinux-Fork-))
 - 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))
 - 📚 Learning **kernel**, **DevOps** and **cybersecurity**
 

@@ -48,8 +48,8 @@ An evolving **Web3 + AI** environment, and its first use: a monster-collecting g
 
 | Layer | What's inside |
 |---|---|
-| ⛓️ **Smart contracts** | Solidity · Foundry · OpenZeppelin UUPS — tokens, NFT monsters, on-chain **marketplace** (auctions, offers, escrow), polls, achievements · 336 tests, 100 % coverage |
-| 🐍 **Backend** | Python · FastAPI · PostgreSQL · web3.py — SIWE login, encrypted wallet vaults, indexer, deterministic battle engine, 310 species, 575 stages |
+| ⛓️ **Smart contracts** | Solidity · Foundry · OpenZeppelin UUPS — tokens, NFT monsters, on-chain **marketplace** (auctions, offers, escrow), polls, achievements · 370 tests, upgrade-safe (validated against the deployed version) |
+| 🐍 **Backend** | Python · FastAPI · PostgreSQL · web3.py — SIWE login, encrypted wallet vaults, indexer, deterministic battle engine, 450 species, 575 stages, 870 backend tests |
 | 🎮 **Game** | Expo · React Native (mobile + web) — summons, runes, dungeons, tower, world boss, guilds, marketplace (UI V2) |
 | 🖥️ **Admin console** | React · wagmi · **three.js** — live 3D view of the chain with wallets, block explorer, players, market, AI agents |
 | 🤖 **AI** | automation registry, agent runs, MCP servers — the project is built to run itself |
@@ -158,7 +158,7 @@ not an app — it is part of the system.<br/>
 
 ---
 
-<p align="center"><i>« Dream High, Assume Later. »</i></p>
+<p align="center"><i>« Dream Higher, Assume Later. »</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2c14e,25:8f6cf0,60:5a3fd0,100:07060f&height=110&section=footer" alt="footer" width="100%" />

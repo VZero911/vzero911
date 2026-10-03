@@ -167,17 +167,6 @@ not an app — it is part of the system.<br/>
 
 ---
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img height="242" src="https://raw.githubusercontent.com/VZero911/vzero911/main/assets/stats.svg" alt="GitHub stats, private repositories included" />
-  <img height="242" src="https://raw.githubusercontent.com/VZero911/vzero911/main/assets/langs.svg" alt="Top languages, private repositories included" />
-<!-- The level counts commits (private included), merged pull requests ×10, issues ×3, repositories ×5, stars ×5, followers ×3: Seed → Sprout → Sapling → Young tree → Tree → World Tree. -->
-
-
-
----
-
 ## 📬 Let's build something
 
 <p align="center"><img src="assets/contact.svg" alt="Email, Discord, PayPal" /></p>

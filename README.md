@@ -49,8 +49,8 @@ An evolving **Web3 + AI** environment, and its first use: a monster-collecting g
 
 | Layer | What's inside |
 |---|---|
-| ⛓️ **Smart contracts** | Solidity · Foundry · OpenZeppelin UUPS — tokens, NFT monsters, on-chain **marketplace** (auctions, offers, escrow), polls, achievements · 370 tests, upgrade-safe (validated against the deployed version) |
-| 🐍 **Backend** | Python · FastAPI · PostgreSQL · web3.py — SIWE login, encrypted wallet vaults, indexer, deterministic battle engine, 450 species, 575 stages, 870 backend tests |
+| ⛓️ **Smart contracts** | Solidity · Foundry · OpenZeppelin UUPS — tokens, NFT monsters, on-chain **marketplace** (auctions, offers, escrow), polls, achievements · 566 tests, upgrade-safe (validated against the deployed version) |
+| 🐍 **Backend** | Python · FastAPI · PostgreSQL · web3.py — SIWE login, encrypted wallet vaults, indexer, deterministic battle engine, 450 species, 575 stages, 1,100 backend tests |
 | 🎮 **Game** | Expo · React Native (mobile + web) — summons, runes, dungeons, tower, world boss, guilds, marketplace (UI V2) |
 | 🖥️ **Admin console** | React · wagmi · **three.js** — live 3D view of the chain with wallets, block explorer, players, market, AI agents |
 | 🤖 **AI** | automation registry, agent runs, MCP servers — the project is built to run itself |

@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Freelance-5fd38d?style=for-the-badge&labelColor=07060f" alt="Open to Freelance" />
 </p>
 <p align="center"><img src="assets/counters.svg?v=15" alt="Profile views, stars, followers, streak, contributions, level and languages" /></p>
-<p align="center"><img src="assets/medals.svg?v=15" alt="Milestones: commits, merged pull requests, issues, reviews, repositories" /></p>
+<p align="center"><img src="assets/milestones.svg" alt="Milestones: commits, merged pull requests, issues, reviews, repositories" /></p>
 
 ## 🧰 Tech stack
 

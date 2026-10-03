@@ -173,7 +173,7 @@ not an app — it is part of the system.<br/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vzero911&theme=tokyo-night&hide_border=true&radius=12&area=true" alt="Activity graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/VZero911/vzero911/main/assets/activity.svg" alt="Activity, last 6 months, private included" />
 </p>
 
 ---

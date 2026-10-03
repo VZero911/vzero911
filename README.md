@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="center"><img src="assets/header.svg?v=9" alt="V0" width="100%" /></p>
+<p align="center"><img src="assets/header.svg?v=10" alt="V0" width="100%" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/42-Student-000000?style=for-the-badge&logo=42&logoColor=white&labelColor=07060f" alt="42 Student" />
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/AI-Agents%20%26%20MCP-8f6cf0?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=07060f" alt="AI agents" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance-5fd38d?style=for-the-badge&labelColor=07060f" alt="Open to Freelance" />
 </p>
-<p align="center"><img src="assets/counters.svg?v=9" alt="Profile views, stars, followers, streak" /></p>
+<p align="center"><img src="assets/counters.svg?v=10" alt="Profile views, stars, followers, streak" /></p>
 
 ## 🧰 Tech stack
 
@@ -147,7 +147,7 @@ table; real money only after audits and a legal frame. See what exists in the
 
 ## 🖤 The Seed OS — *something is growing*
 
-<p align="center"><img src="assets/seedos.svg?v=9" alt="The Seed OS" width="100%" /></p>
+<p align="center"><img src="assets/seedos.svg?v=10" alt="The Seed OS" width="100%" /></p>
 
 <p align="center"><i>Same seed. Another soil.</i><br/>
 An operating system, built from an Arch Linux base, where the wallet is the identity and the AI is
@@ -193,11 +193,8 @@ not an app — it is part of the system.<br/>
   <a href="https://github.com/vzero911">
     <img src="https://img.shields.io/badge/GitHub-@vzero911-c0caf5?style=for-the-badge&logo=github&logoColor=white&labelColor=07060f" alt="GitHub" />
   </a>
-  <a href="https://www.paypal.com/paypalme/vzero911">
-    <img src="https://img.shields.io/badge/PayPal-Freelance%20billing-2f8fe0?style=for-the-badge&logo=paypal&logoColor=white&labelColor=07060f" alt="PayPal" />
-  </a>
 </p>
 
 ---
 
-<p align="center"><img src="assets/footer.svg?v=9" alt="" width="100%" /></p>
+<p align="center"><img src="assets/footer.svg?v=10" alt="" width="100%" /></p>

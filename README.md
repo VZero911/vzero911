@@ -167,10 +167,25 @@ not an app — it is part of the system.<br/>
 
 ---
 
+## 🔮 Incoming
+
+<details>
+<summary><b>👁️ ALICE</b> — to be presented soon</summary>
+
+<br/>
+
+<p align="center"><i>Another piece of the same seed.</i><br/>
+<b>ALICE</b> will be introduced here when it is ready. <b>Nothing more for now.</b> 👁️</p>
+
+</details>
+
+---
+
 ## 🔭 Right now
 
 - 🌱 **The Seed** — floating-island Village, marketplace UI, graphics V2, admin console in 3D, the first AI agents
 - 🎨 **Looking for 3D and 2D artists** — see above
+- 🔮 **Incoming: ALICE** — presented soon 👁️
 - 🖤 **The Seed OS** — classified 🤫 ([first sprout](https://github.com/VZero911/The_Seed_OS.V0-Public-ArchLinux-Fork-))
 - 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))
 - 📚 Learning **kernel**, **DevOps** and **cybersecurity**

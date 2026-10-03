@@ -30,6 +30,7 @@ class V:
     style     = "ship clean, test twice, automate everything"
     remote    = True
     available = True  # freelance missions & collaborations
+    looking_for = ["3D artists", "2D artists / illustrators", "UI artists"]  # sound & music: later
 ```
 
 ---
@@ -100,6 +101,29 @@ Not for today: real value needs audits and a legal frame first.
 
 ---
 
+## 🎨 Looking for artists
+
+**The Seed** needs faces. I build the chain, the server and the game; I am looking for people to
+give it a look worth the world behind it (dark magic, floating island, a giant scary tower):
+
+- 🧊 **3D artists**: monsters, props, the Village island and its tower (glTF, low to mid poly, for three.js and mobile)
+- 🖌️ **2D artists / illustrators**: monster art and skins, rune and item icons, banners, key art
+- 🧩 **UI artists**: game screens on the V2 design tokens (gold frames, display font)
+- 🎵 *Sound and music: not yet, later.*
+
+Credit and a share of the project's contribution points (**POC**, earned, never bought) are on the
+table; real money only after audits and a legal frame. See what exists in the
+[showcase](https://github.com/VZero911/The_Seed.V0-Public), then write me:
+[vzero911@gmail.com](mailto:vzero911@gmail.com) or Discord **vzero911**.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Looking%20for-3D%20artists-8f6cf0?style=for-the-badge&labelColor=07060f" alt="Looking for 3D artists" />
+  <img src="https://img.shields.io/badge/Looking%20for-2D%20artists-f2c14e?style=for-the-badge&labelColor=07060f" alt="Looking for 2D artists" />
+  <img src="https://img.shields.io/badge/Sound-later-5d5a6e?style=for-the-badge&labelColor=07060f" alt="Sound later" />
+</p>
+
+---
+
 ## 🖤 The Seed OS — *something is growing*
 
 <p align="center">
@@ -115,7 +139,8 @@ not an app — it is part of the system.<br/>
 
 ## 🔭 Right now
 
-- 🌱 **The Seed** — marketplace UI, graphics V2, admin console in 3D, the first AI agents
+- 🌱 **The Seed** — floating-island Village, marketplace UI, graphics V2, admin console in 3D, the first AI agents
+- 🎨 **Looking for 3D and 2D artists** — see above
 - 🖤 **The Seed OS** — classified 🤫 ([first sprout](https://github.com/VZero911/The_Seed_OS.V0-Public-ArchLinux-Fork-))
 - 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))
 - 📚 Learning **kernel**, **DevOps** and **cybersecurity**

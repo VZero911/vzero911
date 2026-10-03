@@ -39,7 +39,7 @@ class V:
 
 <p align="center">
   <a href="https://github.com/VZero911/The_Seed.V0-Public">
-    <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/30-chain-3d.png" alt="The Seed — the chain in 3D" width="860" />
+    <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/46-village-floating-island.png" alt="The Seed — the floating-island Village" width="860" />
   </a>
 </p>
 
@@ -49,11 +49,12 @@ An evolving **Web3 + AI** environment, and its first use: a monster-collecting g
 
 | Layer | What's inside |
 |---|---|
-| ⛓️ **Smart contracts** | Solidity · Foundry · OpenZeppelin UUPS — tokens, NFT monsters, on-chain **marketplace** (auctions, offers, escrow), polls, achievements · 566 tests, upgrade-safe (validated against the deployed version) |
-| 🐍 **Backend** | Python · FastAPI · PostgreSQL · web3.py — SIWE login, encrypted wallet vaults, indexer, deterministic battle engine, 450 species, 575 stages, 1,100 backend tests |
+| ⛓️ **Smart contracts** | Solidity · Foundry · OpenZeppelin UUPS — tokens, NFT monsters, on-chain **marketplace** (auctions, offers, escrow), polls, achievements · 570 tests, upgrade-safe (validated against the deployed version) |
+| 🐍 **Backend** | Python · FastAPI · PostgreSQL · web3.py — SIWE login, encrypted wallet vaults, indexer, deterministic battle engine, 450 species, 575 stages, 1,170 backend tests |
 | 🎮 **Game** | Expo · React Native (mobile + web) — summons, runes, dungeons, tower, world boss, guilds, marketplace (UI V2) |
 | 🖥️ **Admin console** | React · wagmi · **three.js** — live 3D view of the chain with wallets, block explorer, players, market, AI agents |
 | 🤖 **AI** | automation registry, agent runs, MCP servers — the project is built to run itself |
+| ✅ **Quality** | ~1,900 tests, 18 browser walks on an isolated stack (game, console, phone layout), security and licence scans, balance simulation |
 
 <p align="center">
   <a href="https://vzero911.github.io/The_Seed.V0-Public/"><img src="https://img.shields.io/badge/Website-The%20Seed%20by%20VZero911-f2c14e?style=for-the-badge&labelColor=07060f" alt="The Seed website" /></a>

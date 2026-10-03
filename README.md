@@ -164,7 +164,7 @@ not an app — it is part of the system.<br/>
 ## 📈 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vzero911&show_icons=true&hide_border=true&border_radius=12&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vzero911&show_icons=true&hide_border=true&border_radius=12&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzero911&hide=html&layout=compact&langs_count=8&hide_border=true&border_radius=12&theme=tokyonight" alt="Top languages" />
 </p>
 

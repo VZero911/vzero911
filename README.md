@@ -56,6 +56,7 @@ An evolving **Web3 + AI** environment, and its first use: a monster-collecting g
 | 🤖 **AI** | automation registry, agent runs, MCP servers — the project is built to run itself |
 
 <p align="center">
+  <a href="https://vzero911.github.io/The_Seed.V0-Public/"><img src="https://img.shields.io/badge/Website-The%20Seed%20by%20VZero911-f2c14e?style=for-the-badge&labelColor=07060f" alt="The Seed website" /></a>
   <a href="https://github.com/VZero911/The_Seed.V0-Public"><img src="https://img.shields.io/badge/See%20the%20showcase-The__Seed.V0--Public-8f6cf0?style=for-the-badge&logo=github&labelColor=07060f" alt="Showcase" /></a>
 </p>
 

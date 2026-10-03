@@ -1,8 +1,13 @@
 <!-- Header -->
-<p align="center"><img src="assets/header.svg?v=8" alt="V0" width="100%" /></p>
+<p align="center"><img src="assets/header.svg?v=9" alt="V0" width="100%" /></p>
 
-<p align="center"><img src="assets/identity.svg?v=8" alt="42 Student · Web3 builder · AI agents · open to freelance" /></p>
-<p align="center"><img src="assets/counters.svg?v=8" alt="Profile views, stars, followers, streak" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/42-Student-000000?style=for-the-badge&logo=42&logoColor=white&labelColor=07060f" alt="42 Student" />
+  <img src="https://img.shields.io/badge/Web3-Builder-f2c14e?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=07060f" alt="Web3 builder" />
+  <img src="https://img.shields.io/badge/AI-Agents%20%26%20MCP-8f6cf0?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=07060f" alt="AI agents" />
+  <img src="https://img.shields.io/badge/Open%20to-Freelance-5fd38d?style=for-the-badge&labelColor=07060f" alt="Open to Freelance" />
+</p>
+<p align="center"><img src="assets/counters.svg?v=9" alt="Profile views, stars, followers, streak" /></p>
 
 ## 🧰 Tech stack
 
@@ -25,7 +30,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg?v=8" alt="Foundry, OpenZeppelin, wagmi, Expo, SQLAlchemy, Claude Code, MCP" />
+  <img src="https://img.shields.io/badge/Foundry-forge%20%C2%B7%20anvil-f2a94e?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-UUPS-4E5EE4?style=flat-square&logo=openzeppelin&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/wagmi%20%2F%20viem-EVM-1c1c1c?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Expo-React%20Native-000020?style=flat-square&logo=expo&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-Alembic-d71f00?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Claude%20Code-AI%20pair-d97757?style=flat-square&logo=anthropic&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/MCP-servers-8f6cf0?style=flat-square&labelColor=07060f" />
 </p>
 
 
@@ -81,8 +92,8 @@ An evolving **Web3 + AI** environment, and its first use: a monster-collecting g
 | ✅ **Quality** | ~1,900 tests, 18 browser walks on an isolated stack (game, console, phone layout), security and licence scans, balance simulation |
 
 <p align="center">
-  <a href="https://vzero911.github.io/The_Seed.V0-Public/"><img src="assets/links.svg?v=8" alt="The Seed website and public showcase" /></a><br/>
-  <a href="https://vzero911.github.io/The_Seed.V0-Public/">Website</a> · <a href="https://github.com/VZero911/The_Seed.V0-Public">Showcase</a>
+  <a href="https://vzero911.github.io/The_Seed.V0-Public/"><img src="https://img.shields.io/badge/Website-The%20Seed%20by%20VZero911-f2c14e?style=for-the-badge&labelColor=07060f" alt="The Seed website" /></a>
+  <a href="https://github.com/VZero911/The_Seed.V0-Public"><img src="https://img.shields.io/badge/See%20the%20showcase-The__Seed.V0--Public-8f6cf0?style=for-the-badge&logo=github&labelColor=07060f" alt="Showcase" /></a>
 </p>
 
 ### 🌍 Why it matters in real life: a concert ticket, with the code you can see above
@@ -126,13 +137,17 @@ table; real money only after audits and a legal frame. See what exists in the
 [showcase](https://github.com/VZero911/The_Seed.V0-Public), then write me:
 [vzero911@gmail.com](mailto:vzero911@gmail.com) or Discord **vzero911**.
 
-<p align="center"><img src="assets/wanted.svg?v=8" alt="Looking for 3D and 2D artists, sound later" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Looking%20for-3D%20artists-8f6cf0?style=for-the-badge&labelColor=07060f" alt="Looking for 3D artists" />
+  <img src="https://img.shields.io/badge/Looking%20for-2D%20artists-f2c14e?style=for-the-badge&labelColor=07060f" alt="Looking for 2D artists" />
+  <img src="https://img.shields.io/badge/Sound-later-5d5a6e?style=for-the-badge&labelColor=07060f" alt="Sound later" />
+</p>
 
 ---
 
 ## 🖤 The Seed OS — *something is growing*
 
-<p align="center"><img src="assets/seedos.svg?v=8" alt="The Seed OS" width="100%" /></p>
+<p align="center"><img src="assets/seedos.svg?v=9" alt="The Seed OS" width="100%" /></p>
 
 <p align="center"><i>Same seed. Another soil.</i><br/>
 An operating system, built from an Arch Linux base, where the wallet is the identity and the AI is
@@ -168,14 +183,21 @@ not an app — it is part of the system.<br/>
 
 ## 📬 Let's build something
 
-<p align="center"><img src="assets/contact.svg?v=8" alt="Email, Discord, PayPal" /></p>
 <p align="center">
-  <a href="mailto:vzero911@gmail.com">Email</a> ·
-  <a href="https://discord.com/users/vzero911">Discord</a> ·
-  <a href="https://github.com/vzero911">GitHub</a> ·
-  <a href="https://www.paypal.com/paypalme/vzero911">PayPal</a>
+  <a href="mailto:vzero911@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vzero911%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07060f" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/vzero911">
+    <img src="https://img.shields.io/badge/Discord-vzero911-5865f2?style=for-the-badge&logo=discord&logoColor=white&labelColor=07060f" alt="Discord" />
+  </a>
+  <a href="https://github.com/vzero911">
+    <img src="https://img.shields.io/badge/GitHub-@vzero911-c0caf5?style=for-the-badge&logo=github&logoColor=white&labelColor=07060f" alt="GitHub" />
+  </a>
+  <a href="https://www.paypal.com/paypalme/vzero911">
+    <img src="https://img.shields.io/badge/PayPal-Freelance%20billing-2f8fe0?style=for-the-badge&logo=paypal&logoColor=white&labelColor=07060f" alt="PayPal" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><img src="assets/footer.svg?v=8" alt="" width="100%" /></p>
+<p align="center"><img src="assets/footer.svg?v=9" alt="" width="100%" /></p>

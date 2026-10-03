@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="center"><img src="assets/header.svg" alt="V" width="100%" /></p>
+<p align="center"><img src="assets/header.svg" alt="V0" width="100%" /></p>
 
 <p align="center"><img src="assets/identity.svg" alt="42 Student · Web3 builder · AI agents · open to freelance" /></p>
 <p align="center"><img src="assets/counters.svg" alt="Profile views, stars, followers, streak" /></p>

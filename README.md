@@ -166,7 +166,7 @@ not an app — it is part of the system.<br/>
 <p align="center">
   <img height="242" src="https://raw.githubusercontent.com/VZero911/vzero911/main/assets/stats.svg" alt="GitHub stats, private repositories included" />
   <img height="242" src="https://raw.githubusercontent.com/VZero911/vzero911/main/assets/langs.svg" alt="Top languages, private repositories included" />
-<p align="center"><sub>The level counts commits (private included), merged pull requests ×10, issues ×3, repositories ×5, stars ×5, followers ×3: Seed → Sprout → Sapling → Young tree → Tree → World Tree.</sub></p>
+<!-- The level counts commits (private included), merged pull requests ×10, issues ×3, repositories ×5, stars ×5, followers ×3: Seed → Sprout → Sapling → Young tree → Tree → World Tree. -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vzero911&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />

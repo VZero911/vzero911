@@ -39,9 +39,21 @@ class V:
 
 <p align="center">
   <a href="https://github.com/VZero911/The_Seed.V0-Public">
-    <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/46-village-floating-island.png" alt="The Seed — the floating-island Village" width="860" />
+    <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/30-chain-3d.png" alt="The Seed — the chain in 3D" width="860" />
   </a>
 </p>
+
+<details>
+<summary><b>🖼️ More screens</b> (the Village art is V2 and will be replaced)</summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/50-battle-paused-v2.png" width="250" />
+  <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/51-summon-altar-v2.png" width="250" />
+  <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/49-inventory-v2.png" width="250" />
+</p>
+<p align="center"><img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/46-village-floating-island.png" alt="The Village, V2 art" width="560" /></p>
+
+</details>
 
 An evolving **Web3 + AI** environment, and its first use: a monster-collecting game in the spirit of
 *Summoners War*, bigger, on-chain. Your identity is a **wallet**; trades between players go through

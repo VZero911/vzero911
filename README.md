@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="center"><img src="assets/header.svg?v=11" alt="V0" width="100%" /></p>
+<p align="center"><img src="assets/header.svg?v=12" alt="V0" width="100%" /></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/42-Student-000000?style=for-the-badge&logo=42&logoColor=white&labelColor=07060f" alt="42 Student" />
@@ -7,9 +7,11 @@
   <img src="https://img.shields.io/badge/AI-Agents%20%26%20MCP-8f6cf0?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=07060f" alt="AI agents" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance-5fd38d?style=for-the-badge&labelColor=07060f" alt="Open to Freelance" />
 </p>
-<p align="center"><img src="assets/counters.svg?v=11" alt="Profile views, stars, followers, streak" /></p>
+<p align="center"><img src="assets/counters.svg?v=12" alt="Profile views, stars, followers, streak" /></p>
 
 <p align="center"><sub>Every scan and full test ends the same way: <b>code review</b> → <b>issues</b> (a problem or not) → <b>fix</b> → <b>pull request</b> → <b>merge to master</b>.</sub></p>
+
+<p align="center"><img src="assets/medals.svg?v=12" alt="Milestones: commits, merged pull requests, issues, reviews, repositories, stars" /></p>
 
 ## 🧰 Tech stack
 
@@ -149,7 +151,7 @@ table; real money only after audits and a legal frame. See what exists in the
 
 ## 🖤 The Seed OS — *something is growing*
 
-<p align="center"><img src="assets/seedos.svg?v=11" alt="The Seed OS" width="100%" /></p>
+<p align="center"><img src="assets/seedos.svg?v=12" alt="The Seed OS" width="100%" /></p>
 
 <p align="center"><i>Same seed. Another soil.</i><br/>
 An operating system, built from an Arch Linux base, where the wallet is the identity and the AI is
@@ -199,4 +201,4 @@ not an app — it is part of the system.<br/>
 
 ---
 
-<p align="center"><img src="assets/footer.svg?v=11" alt="" width="100%" /></p>
+<p align="center"><img src="assets/footer.svg?v=12" alt="" width="100%" /></p>

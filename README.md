@@ -1,8 +1,8 @@
 <!-- Header -->
-<p align="center"><img src="assets/header.svg?v=3" alt="V0" width="100%" /></p>
+<p align="center"><img src="assets/header.svg?v=4" alt="V0" width="100%" /></p>
 
-<p align="center"><img src="assets/identity.svg?v=3" alt="42 Student · Web3 builder · AI agents · open to freelance" /></p>
-<p align="center"><img src="assets/counters.svg?v=3" alt="Profile views, stars, followers, streak" /></p>
+<p align="center"><img src="assets/identity.svg?v=4" alt="42 Student · Web3 builder · AI agents · open to freelance" /></p>
+<p align="center"><img src="assets/counters.svg?v=4" alt="Profile views, stars, followers, streak" /></p>
 
 ---
 
@@ -56,7 +56,7 @@ An evolving **Web3 + AI** environment, and its first use: a monster-collecting g
 | ✅ **Quality** | ~1,900 tests, 18 browser walks on an isolated stack (game, console, phone layout), security and licence scans, balance simulation |
 
 <p align="center">
-  <a href="https://vzero911.github.io/The_Seed.V0-Public/"><img src="assets/links.svg?v=3" alt="The Seed website and public showcase" /></a><br/>
+  <a href="https://vzero911.github.io/The_Seed.V0-Public/"><img src="assets/links.svg?v=4" alt="The Seed website and public showcase" /></a><br/>
   <a href="https://vzero911.github.io/The_Seed.V0-Public/">Website</a> · <a href="https://github.com/VZero911/The_Seed.V0-Public">Showcase</a>
 </p>
 
@@ -107,7 +107,7 @@ first.**
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg?v=3" alt="Foundry, OpenZeppelin, wagmi, Expo, SQLAlchemy, Claude Code, MCP" />
+  <img src="assets/stack.svg?v=4" alt="Foundry, OpenZeppelin, wagmi, Expo, SQLAlchemy, Claude Code, MCP" />
 </p>
 
 ---
@@ -127,13 +127,13 @@ table; real money only after audits and a legal frame. See what exists in the
 [showcase](https://github.com/VZero911/The_Seed.V0-Public), then write me:
 [vzero911@gmail.com](mailto:vzero911@gmail.com) or Discord **vzero911**.
 
-<p align="center"><img src="assets/wanted.svg?v=3" alt="Looking for 3D and 2D artists, sound later" /></p>
+<p align="center"><img src="assets/wanted.svg?v=4" alt="Looking for 3D and 2D artists, sound later" /></p>
 
 ---
 
 ## 🖤 The Seed OS — *something is growing*
 
-<p align="center"><img src="assets/seedos.svg?v=3" alt="The Seed OS" width="100%" /></p>
+<p align="center"><img src="assets/seedos.svg?v=4" alt="The Seed OS" width="100%" /></p>
 
 <p align="center"><i>Same seed. Another soil.</i><br/>
 An operating system, built from an Arch Linux base, where the wallet is the identity and the AI is
@@ -169,7 +169,7 @@ not an app — it is part of the system.<br/>
 
 ## 📬 Let's build something
 
-<p align="center"><img src="assets/contact.svg?v=3" alt="Email, Discord, PayPal" /></p>
+<p align="center"><img src="assets/contact.svg?v=4" alt="Email, Discord, PayPal" /></p>
 <p align="center">
   <a href="mailto:vzero911@gmail.com">Email</a> ·
   <a href="https://discord.com/users/vzero911">Discord</a> ·
@@ -181,4 +181,4 @@ not an app — it is part of the system.<br/>
 
 <p align="center"><i>« Dream Higher, Assume Later. »</i></p>
 
-<p align="center"><img src="assets/footer.svg?v=3" alt="" width="100%" /></p>
+<p align="center"><img src="assets/footer.svg?v=4" alt="" width="100%" /></p>

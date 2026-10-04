@@ -10,7 +10,7 @@
 <p align="center"><img src="assets/counters.svg?v=19" alt="Profile views, stars, followers, streak, contributions, level and languages" /></p>
 <p align="center"><img src="assets/milestones.svg" alt="Milestones: commits, merged pull requests, issues, reviews, repositories" /></p>
 <!-- loc -->
-<p align="center"><sub>Lines of code (code + tests): The Seed 88,057 · A.L.I.C.E 0</sub></p>
+<p align="center"><sub>Lines of code (code + tests): The Seed 55,937 · TOA - Infernal 34,613 · A.L.I.C.E 0 · The Seed OS 0</sub></p>
 <!-- /loc -->
 
 ## 🧰 Tech stack

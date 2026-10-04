@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Assembly">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g stroke="#9aa4c7" stroke-width="10" stroke-linecap="round">
+    <path d="M92 52v26M128 52v26M164 52v26M92 178v26M128 178v26M164 178v26M52 92h26M52 128h26M52 164h26M178 92h26M178 128h26M178 164h26"/>
+  </g>
+  <rect x="78" y="78" width="100" height="100" rx="14" fill="#12121c" stroke="#8f6cf0" stroke-width="10"/>
+  <text x="128" y="144" fill="#f2c14e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="38" font-weight="700" text-anchor="middle">ASM</text>
+</svg>

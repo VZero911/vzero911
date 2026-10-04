@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/AI-Agents%20%26%20MCP-8f6cf0?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=07060f" alt="AI agents" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance-5fd38d?style=for-the-badge&labelColor=07060f" alt="Open to Freelance" />
 </p>
-<p align="center"><img src="assets/counters.svg?v=16" alt="Profile views, stars, followers, streak, contributions, level and languages" /></p>
+<p align="center"><img src="assets/counters.svg?v=17" alt="Profile views, stars, followers, streak, contributions, level and languages" /></p>
 <p align="center"><img src="assets/milestones.svg" alt="Milestones: commits, merged pull requests, issues, reviews, repositories" /></p>
 
 ## 🧰 Tech stack
@@ -47,13 +47,13 @@
 
 ```python
 class V:
-    school    = "42"
-    roles     = ["Full-Stack Developer", "AI Developer", "Blockchain Developer", "Software Engineer"]
-    learning  = ["Kernel", "DevOps", "Cybersecurity"]
-    building  = "🌱 The Seed — a Web3 + AI monster-collecting game, Summoners War and beyond"
-    style     = "ship clean, test twice, automate everything"
-    remote    = True
-    available = True  # freelance missions & collaborations
+    school      = "42"
+    roles       = ["Full-Stack Developer", "AI Developer", "Blockchain Developer", "Software Engineer"]
+    learning    = ["Kernel", "DevOps", "Cybersecurity"]
+    building    = "🌱 The Seed — a Web3 + AI game: tokenized monsters, on-chain assets, signed actions"
+    style       = "ship clean, test twice, automate everything"
+    remote      = True
+    available   = True  # freelance missions & collaborations
     looking_for = ["3D artists", "2D artists / illustrators", "UI artists"]  # sound & music: later
 ```
 
@@ -79,9 +79,9 @@ class V:
 
 </details>
 
-An evolving **Web3 + AI** environment, and its first use: a monster-collecting game in the spirit of
-*Summoners War*, bigger, on-chain. Your identity is a **wallet**; trades between players go through
-**smart contracts**; every action is **signed for free** and relayed by the game.
+An evolving **Web3 + AI** environment, and its first use: a monster-collecting game where monsters, runes and items are
+**tokenized assets** you truly own, on-chain. Your identity is a **wallet**; trades between players go through
+**smart contracts** (escrow, auctions, on-chain royalties); every action is **signed for free** (gasless) and relayed by the game.
 
 | Layer | What's inside |
 |---|---|

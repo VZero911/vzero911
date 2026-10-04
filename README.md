@@ -7,8 +7,11 @@
   <img src="https://img.shields.io/badge/AI-Agents%20%26%20MCP-8f6cf0?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=07060f" alt="AI agents" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance-5fd38d?style=for-the-badge&labelColor=07060f" alt="Open to Freelance" />
 </p>
-<p align="center"><img src="assets/counters.svg?v=17" alt="Profile views, stars, followers, streak, contributions, level and languages" /></p>
+<p align="center"><img src="assets/counters.svg?v=18" alt="Profile views, stars, followers, streak, contributions, level and languages" /></p>
 <p align="center"><img src="assets/milestones.svg" alt="Milestones: commits, merged pull requests, issues, reviews, repositories" /></p>
+<!-- loc -->
+<p align="center"><sub>Lines of code (code + tests): The Seed 87,671 · A.L.I.C.E 0</sub></p>
+<!-- /loc -->
 
 ## 🧰 Tech stack
 

@@ -18,7 +18,7 @@
 **Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,solidity,bash,html,css&perline=9&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="C, C++" />&nbsp;&nbsp;<img src="assets/asm.svg" alt="Assembly" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python,ts,js,solidity,bash,html,css&perline=7&theme=dark" alt="Languages" />
 </p>
 
 **Web, mobile & 3D**

@@ -5,6 +5,9 @@
 # For the FULL card (private repos, contributions, streak) add a repo secret STATS_TOKEN: a PAT with
 # `repo` (read) + `read:user`. Without it the job still refreshes public stats and the cache-buster,
 # and keeps the rest at their last values (the generator is fail-soft).
+#
+# The auto-commit carries [skip ci] so it never re-triggers this workflow. The push is sync-and-retry
+# so concurrent runs (schedule racing a manual push) can't fail on a non-fast-forward.
 name: profile
 
 on:
@@ -13,7 +16,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['assets/stats.json', 'tools/profile-stats.mjs']
+    paths: ['tools/profile-stats.mjs', '.github/workflows/profile.yml']
 
 permissions:
   contents: write
@@ -31,22 +34,25 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Regenerate the card
+      - name: Refresh and push (sync + retry, deterministic regen on conflict)
         env:
           STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: VZero911
-        run: node tools/profile-stats.mjs
-      - name: Commit if changed
         run: |
           git config user.name "A.L.I.C.E"
           git config user.email "noreply@anthropic.com"
-          git add assets/counters.svg assets/milestones.svg assets/stats.json README.md
-          if git diff --cached --quiet; then
-            echo "profile card unchanged"
-          else
-            git commit -m "profile: auto-refresh the stats card
+          for attempt in 1 2 3; do
+            git fetch -q origin main && git reset --hard -q origin/main
+            node tools/profile-stats.mjs
+            git add assets/counters.svg assets/milestones.svg assets/stats.json README.md
+            if git diff --cached --quiet; then
+              echo "profile card unchanged"; exit 0
+            fi
+            git commit -q -m "profile: auto-refresh the stats card [skip ci]
 
           Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>"
-            git push
-          fi
+            if git push origin HEAD:main; then echo "pushed (attempt $attempt)"; exit 0; fi
+            echo "push rejected, retrying ($attempt)"; sleep 3
+          done
+          echo "could not push after 3 attempts"; exit 1

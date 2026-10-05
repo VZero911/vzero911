@@ -1,0 +1,52 @@
+# Auto-refresh the profile card: regenerate assets/counters.svg + milestones.svg from live GitHub
+# numbers, bump the ?v= cache-buster in README.md (so the update actually shows), and commit.
+# Runs on GitHub-hosted runners — free and unlimited on this public repo. Every 6h + on demand.
+#
+# For the FULL card (private repos, contributions, streak) add a repo secret STATS_TOKEN: a PAT with
+# `repo` (read) + `read:user`. Without it the job still refreshes public stats and the cache-buster,
+# and keeps the rest at their last values (the generator is fail-soft).
+name: profile
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['assets/stats.json', 'tools/profile-stats.mjs']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Regenerate the card
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: VZero911
+        run: node tools/profile-stats.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "A.L.I.C.E"
+          git config user.email "noreply@anthropic.com"
+          git add assets/counters.svg assets/milestones.svg assets/stats.json README.md
+          if git diff --cached --quiet; then
+            echo "profile card unchanged"
+          else
+            git commit -m "profile: auto-refresh the stats card
+
+          Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>"
+            git push
+          fi

@@ -1,16 +1,64 @@
 {
- "views": 171, "stars": 20, "followers": 19, "streak": 4, "bestStreak": 4,
- "commits": 523, "prsMerged": 14, "prsTotal": 16, "issues": 24, "reviews": 1,
- "repos": 13, "contributions": 527, "contracts": 13, "tests": 1976,
- "tokensTotal": 228552427, "costUsd": 160, "points": 957,
+ "views": 171,
+ "stars": 20,
+ "followers": 19,
+ "streak": 5,
+ "bestStreak": 5,
+ "commits": 61,
+ "prsMerged": 14,
+ "prsTotal": 16,
+ "issues": 0,
+ "reviews": 0,
+ "repos": 13,
+ "contributions": 530,
+ "contracts": 13,
+ "tests": 1976,
+ "tokensTotal": 228552427,
+ "costUsd": 160,
+ "points": 1261,
  "languages": [
-  { "name": "Python", "pct": 33, "color": "#3572A5" },
-  { "name": "TypeScript", "pct": 21.2, "color": "#3178c6" },
-  { "name": "C", "pct": 13.3, "color": "#555555" },
-  { "name": "HTML", "pct": 11.5, "color": "#e34c26" },
-  { "name": "Solidity", "pct": 9.4, "color": "#AA6746" },
-  { "name": "JavaScript", "pct": 4.4, "color": "#f1e05a" }
+  {
+   "name": "Python",
+   "pct": 33,
+   "color": "#3572A5"
+  },
+  {
+   "name": "TypeScript",
+   "pct": 21.2,
+   "color": "#3178c6"
+  },
+  {
+   "name": "C",
+   "pct": 13.3,
+   "color": "#555555"
+  },
+  {
+   "name": "HTML",
+   "pct": 11.5,
+   "color": "#e34c26"
+  },
+  {
+   "name": "Solidity",
+   "pct": 9.4,
+   "color": "#AA6746"
+  },
+  {
+   "name": "JavaScript",
+   "pct": 4.4,
+   "color": "#f1e05a"
+  }
  ],
- "milestones": { "commits": 468, "prsMerged": 13, "issues": 24, "reviews": 1, "repos": 12 },
- "loc": { "The Seed": 55937, "TOA - Infernal": 34613, "A.L.I.C.E": 0, "The Seed OS": 0 }
+ "milestones": {
+  "commits": 468,
+  "prsMerged": 13,
+  "issues": 24,
+  "reviews": 1,
+  "repos": 12
+ },
+ "loc": {
+  "The Seed": 55937,
+  "TOA - Infernal": 34613,
+  "A.L.I.C.E": 0,
+  "The Seed OS": 0
+ }
 }

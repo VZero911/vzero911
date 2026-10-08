@@ -10,7 +10,7 @@
 <p align="center"><img src="assets/counters.svg?v=32" alt="Profile views, stars, followers, streak, contributions, level and languages" /></p>
 <p align="center"><img src="assets/milestones.svg" alt="Milestones: commits, merged pull requests, issues, reviews, repositories" /></p>
 <!-- loc -->
-<p align="center"><sub>Lines of code (code + tests): The Seed 55,937 · TOA - Infernal 34,613 · A.L.I.C.E 0 · The Seed OS 0</sub></p>
+<p align="center"><sub>Lines of code (code + tests): The Seed 55,937 · TOA - Infernal 34,613 · A.L.I.C.E — incoming</sub></p>
 <!-- /loc -->
 
 ## 🧰 Tech stack
@@ -49,11 +49,12 @@
 ## 👋 About me
 
 ```python
-class V:
+class V0:
     school      = "42"
     roles       = ["Full-Stack Developer", "AI Developer", "Blockchain Developer", "Software Engineer"]
     learning    = ["Kernel", "DevOps", "Cybersecurity"]
-    building    = "🌱 The Seed — a Web3 + AI game: tokenized monsters, on-chain assets, signed actions"
+    building    = ["🌱 The Seed — Web3 + AI game", "🔮 A.L.I.C.E — AGI engine"]
+    powered_by  = "ALICE"
     style       = "ship clean, test twice, automate everything"
     remote      = True
     available   = True  # freelance missions & collaborations
@@ -160,25 +161,38 @@ not an app — it is part of the system.<br/>
 
 ---
 
-## 🔮 Incoming
+## 🔮 A.L.I.C.E — *Powered by Alice*
 
-<details>
-<summary><b>👁️ ALICE</b> — to be presented soon</summary>
+<p align="center">
+  <img src="https://img.shields.io/badge/A.L.I.C.E-AGI%20Engine-00ffcc?style=for-the-badge&labelColor=07060f" alt="ALICE" />
+  <img src="https://img.shields.io/badge/Status-Active-5fd38d?style=for-the-badge&labelColor=07060f" alt="Active" />
+  <img src="https://img.shields.io/badge/Scope-LOCAL-8f6cf0?style=for-the-badge&labelColor=07060f" alt="Local" />
+</p>
 
-<br/>
+**Autonomous Local Intelligence & Cybernetic Entity.**
+A private AGI engine — voice, vision, defense, financial analysis, self-improvement. Runs 100% local, zero cloud dependency.
 
-<p align="center"><i>Another piece of the same seed.</i><br/>
-<b>ALICE</b> will be introduced here when it is ready. <b>Nothing more for now.</b> 👁️</p>
+| Metric | Value |
+|---|---|
+| Engine | TRUE-ALICE ENGINE v2 (2.5D SVG + CSS3D) |
+| Modules | 17 active |
+| Security levels | 9 tiers |
+| Screens | 3 displays, 4 windows |
 
-</details>
+<p align="center"><i>To be presented in detail soon.</i> 👁️</p>
+
+<p align="center">
+  <a href="https://github.com/VZero911/A.L.I.C.E-Public"><img src="https://img.shields.io/badge/See-A.L.I.C.E--Public-00ffcc?style=for-the-badge&logo=github&labelColor=07060f" alt="ALICE Public" /></a>
+</p>
 
 ---
 
 ## 🔭 Right now
 
-- 🌱 **The Seed** — floating-island Village, marketplace UI, graphics V2, admin console in 3D, the first AI agents
+- 🔮 **A.L.I.C.E** — AGI engine, 17 modules, TRUE-ALICE ENGINE v2 ([A.L.I.C.E-Public](https://github.com/VZero911/A.L.I.C.E-Public))
+- 🌱 **The Seed** — floating-island Village, marketplace UI, graphics V2, admin console in 3D, AI agents ([Showcase](https://github.com/VZero911/The_Seed.V0-Public))
+- 🎮 **TOA Infernal** — Unity 6 game project, dark fantasy
 - 🎨 **Looking for 3D and 2D artists** — see above
-- 🔮 **Incoming: ALICE** — presented soon 👁️
 - 🖤 **The Seed OS** — classified 🤫 ([first sprout](https://github.com/VZero911/The_Seed_OS.V0-Public-ArchLinux-Fork-))
 - 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))
 - 📚 Learning **kernel**, **DevOps** and **cybersecurity**

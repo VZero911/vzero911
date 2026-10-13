@@ -10,8 +10,21 @@
 <p align="center"><img src="assets/counters.svg?v=46" alt="Profile views, stars, followers, streak, contributions, level and languages" /></p>
 <p align="center"><img src="assets/milestones.svg" alt="Milestones: commits, merged pull requests, issues, reviews, repositories" /></p>
 <!-- loc -->
-<p align="center"><sub>Lines of code (code + tests): The Seed 55,937 · TOA - Infernal 34,613 · A.L.I.C.E 0 · The Seed OS 0</sub></p>
+<p align="center"><sub>Lines of code (code + tests): The Seed 585K · A.L.I.C.E 132K · TOA - Infernal 34.6K · The Seed OS 1.2K</sub></p>
 <!-- /loc -->
+
+<!-- metrics -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20commits-2.3K-c0caf5?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Total%20LoC-753K-c0caf5?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Smart%20contracts-309-f2c14e?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Dashboard%20panels-106-8f6cf0?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/AI%20modules-36-00ffcc?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Docker%20containers-6-2496ED?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Tools-156-5fd38d?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Test%20files-621-ea4335?style=flat-square&labelColor=07060f" />
+</p>
+<!-- /metrics -->
 
 ## 🧰 Tech stack
 
@@ -41,6 +54,7 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-Alembic-d71f00?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/MCP-AI%20pair-d97757?style=flat-square&logo=modelcontextprotocol&labelColor=07060f" />
   <img src="https://img.shields.io/badge/MCP-servers-8f6cf0?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/x402-micropayments-00ffcc?style=flat-square&labelColor=07060f" />
 </p>
 
 
@@ -53,12 +67,13 @@ class V0:
     school      = "42"
     roles       = ["Full-Stack Developer", "AI Developer", "Blockchain Developer", "Software Engineer"]
     learning    = ["Kernel", "DevOps", "Cybersecurity"]
-    building    = ["🌱 The Seed — Web3 + AI game", "🔮 A.L.I.C.E — AGI engine"]
+    building    = ["🌱 The Seed — Web3 + AI game", "🔮 A.L.I.C.E — AI agent framework",
+                   "🎮 TOA Infernal — dark fantasy game", "🤖 MCP + AGENTS — AI tooling"]
     powered_by  = "ALICE"
     style       = "ship clean, test twice, automate everything"
     remote      = True
     available   = True  # freelance missions & collaborations
-    looking_for = ["3D artists", "2D artists / illustrators", "UI artists"]  # sound & music: later
+    looking_for = ["3D artists", "2D artists / illustrators", "UI artists"]
 ```
 
 ---
@@ -66,8 +81,8 @@ class V0:
 ## 🌱 Featured project — The Seed
 
 <p align="center">
-  <a href="https://github.com/VZero911/The_Seed.V0-Public">
-    <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/30-chain-3d.png" alt="The Seed — the chain in 3D" width="860" />
+  <a href="https://github.com/VZero911/THESEED">
+    <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/30-chain-3d.png" alt="The Seed — the chain in 3D" width="860" />
   </a>
 </p>
 
@@ -75,11 +90,11 @@ class V0:
 <summary><b>🖼️ More screens</b> (the Village art is V2 and will be replaced)</summary>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/50-battle-paused-v2.png" width="250" />
-  <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/51-summon-altar-v2.png" width="250" />
-  <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/49-inventory-v2.png" width="250" />
+  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/50-battle-paused-v2.png" width="250" />
+  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/51-summon-altar-v2.png" width="250" />
+  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/49-inventory-v2.png" width="250" />
 </p>
-<p align="center"><img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/46-village-floating-island.png" alt="The Village, V2 art" width="560" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/46-village-floating-island.png" alt="The Village, V2 art" width="560" /></p>
 
 </details>
 
@@ -89,16 +104,17 @@ An evolving **Web3 + AI** environment, and its first use: a monster-collecting g
 
 | Layer | What's inside |
 |---|---|
-| ⛓️ **Smart contracts** | Solidity · Foundry · OpenZeppelin UUPS — tokens, NFT monsters, on-chain **marketplace** (auctions, offers, escrow), polls, achievements · 570 tests, upgrade-safe (validated against the deployed version) |
-| 🐍 **Backend** | Python · FastAPI · PostgreSQL · web3.py — SIWE login, encrypted wallet vaults, indexer, deterministic battle engine, 450 species, 575 stages, 1,170 backend tests |
-| 🎮 **Game** | Expo · React Native (mobile + web) — summons, runes, dungeons, tower, world boss, guilds, marketplace (UI V2) |
+| ⛓️ **Smart contracts** | Solidity · Foundry · OpenZeppelin UUPS — tokens, NFT monsters, on-chain **marketplace** (auctions, offers, escrow), polls, achievements · 261 contract test files, upgrade-safe |
+| 🐍 **Backend** | Python · FastAPI · PostgreSQL · web3.py — SIWE login, encrypted wallet vaults, indexer, deterministic battle engine, 450+ species, 575+ stages, 272 backend test files |
+| 🎮 **Game** | Expo · React Native (mobile + web) — summons, runes, dungeons, tower, world boss, guilds, marketplace (UI V2), 88 test files |
 | 🖥️ **Admin console** | React · wagmi · **three.js** — live 3D view of the chain with wallets, block explorer, players, market, AI agents |
 | 🤖 **AI** | automation registry, agent runs, MCP servers — the project is built to run itself |
-| ✅ **Quality** | ~1,900 tests, 18 browser walks on an isolated stack (game, console, phone layout), security and licence scans, balance simulation |
+| ✅ **Quality** | 621 test files, 18 browser walks on an isolated stack, security and licence scans, balance simulation |
+| 📊 **Scale** | 585K LoC · 1.2K commits · 309 contracts |
 
 <p align="center">
-  <a href="https://vzero911.github.io/The_Seed.V0-Public/"><img src="https://img.shields.io/badge/Website-The%20Seed%20by%20VZero911-f2c14e?style=for-the-badge&labelColor=07060f" alt="The Seed website" /></a>
-  <a href="https://github.com/VZero911/The_Seed.V0-Public"><img src="https://img.shields.io/badge/See%20the%20showcase-The__Seed.V0--Public-8f6cf0?style=for-the-badge&logo=github&labelColor=07060f" alt="Showcase" /></a>
+  <a href="https://vzero911.github.io/The_Seed.V0-Public/"><img src="https://img.shields.io/badge/Website-The%20Seed%20by%20V0-f2c14e?style=for-the-badge&labelColor=07060f" alt="The Seed website" /></a>
+  <a href="https://github.com/VZero911/THESEED"><img src="https://img.shields.io/badge/See%20the%20showcase-THESEED-8f6cf0?style=for-the-badge&logo=github&labelColor=07060f" alt="Showcase" /></a>
 </p>
 
 ### 🌍 Why it matters in real life: a concert ticket, with the code you can see above
@@ -115,9 +131,9 @@ without a middleman. The same four steps, on a real example, a **concert ticket*
 | **5. Prove** | Every sale is public on the chain, with its history | Provenance and authenticity of the ticket, checkable by anyone |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/40-market-listing.png" width="250" />
-  <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/44-market-offer-received.png" width="250" />
-  <img src="https://raw.githubusercontent.com/VZero911/The_Seed.V0-Public/main/screenshots/45-market-journal.png" width="250" />
+  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/40-market-listing.png" width="250" />
+  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/44-market-offer-received.png" width="250" />
+  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/45-market-journal.png" width="250" />
 </p>
 <p align="center"><sub>The real screens: a sale, an offer received, the journal of every trade.</sub></p>
 
@@ -127,25 +143,49 @@ first.**
 
 ---
 
-## 🎨 Looking for artists
-
-**The Seed** needs faces. I build the chain, the server and the game; I am looking for people to
-give it a look worth the world behind it (dark magic, floating island, a giant scary tower):
-
-- 🧊 **3D artists**: monsters, props, the Village island and its tower (glTF, low to mid poly, for three.js and mobile)
-- 🖌️ **2D artists / illustrators**: monster art and skins, rune and item icons, banners, key art
-- 🧩 **UI artists**: game screens on the V2 design tokens (gold frames, display font)
-- 🎵 *Sound and music: not yet, later.*
-
-Credit and a share of the project's contribution points (**POC**, earned, never bought) are on the
-table; real money only after audits and a legal frame. See what exists in the
-[showcase](https://github.com/VZero911/The_Seed.V0-Public), then write me:
-[vzero911@gmail.com](mailto:vzero911@gmail.com) or Discord **vzero911**.
+## 🔮 A.L.I.C.E — *Powered by Alice*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Looking%20for-3D%20artists-8f6cf0?style=for-the-badge&labelColor=07060f" alt="Looking for 3D artists" />
-  <img src="https://img.shields.io/badge/Looking%20for-2D%20artists-f2c14e?style=for-the-badge&labelColor=07060f" alt="Looking for 2D artists" />
-  <img src="https://img.shields.io/badge/Sound-later-5d5a6e?style=for-the-badge&labelColor=07060f" alt="Sound later" />
+  <img src="https://img.shields.io/badge/A.L.I.C.E-Alice%20Framework%20Agi-00ffcc?style=for-the-badge&labelColor=07060f" alt="ALICE" />
+  <img src="https://img.shields.io/badge/Status-Active-5fd38d?style=for-the-badge&labelColor=07060f" alt="Active" />
+  <img src="https://img.shields.io/badge/Scope-LOCAL-8f6cf0?style=for-the-badge&labelColor=07060f" alt="Local" />
+</p>
+
+**Autonomous Local Intelligence & Cybernetic Entity.**
+An AI agent framework — voice, vision, defense, financial analysis, self-improvement. Runs 100% local, zero cloud dependency.
+
+| Metric | Value |
+|---|---|
+| Framework | Alice Framework Agi V0 |
+| Dashboard panels | 106 React components |
+| AI modules | 36 active |
+| x402 endpoints | 12 paid API routes (USDC on Base) |
+| Docker containers | 6 (master, general, anvil, postgres, toa, pandora) |
+| Tools | 156 scripts (Python, Node.js, Bash) |
+| Lines of code | 132K |
+| Security layers | L-3 to L9+1 (14 levels) |
+| MCP server | 12 tools for Agent / Cursor |
+| Agents | Autonomous public nodes, zero deps |
+
+<p align="center">
+  <a href="https://github.com/VZero911/A.L.I.C.E-Public"><img src="https://img.shields.io/badge/See-A.L.I.C.E-00ffcc?style=for-the-badge&logo=github&labelColor=07060f" alt="ALICE" /></a>
+  <a href="https://github.com/VZero911/MCP"><img src="https://img.shields.io/badge/MCP-Server-8f6cf0?style=for-the-badge&logo=github&labelColor=07060f" alt="MCP" /></a>
+  <a href="https://github.com/VZero911/AGENTS"><img src="https://img.shields.io/badge/AGENTS-Public%20Nodes-5fd38d?style=for-the-badge&logo=github&labelColor=07060f" alt="AGENTS" /></a>
+</p>
+
+---
+
+## 🎮 TOA — Infernal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TOA-Infernal-ea4335?style=for-the-badge&labelColor=07060f" alt="TOA Infernal" />
+  <img src="https://img.shields.io/badge/Status-In%20Progress-f2c14e?style=for-the-badge&labelColor=07060f" alt="In Progress" />
+</p>
+
+Dark fantasy game project. 34.6K LoC.
+
+<p align="center">
+  <a href="https://github.com/VZero911/TOA-INFERNAL"><img src="https://img.shields.io/badge/See-TOA--INFERNAL-ea4335?style=for-the-badge&logo=github&labelColor=07060f" alt="TOA" /></a>
 </p>
 
 ---
@@ -161,39 +201,38 @@ not an app — it is part of the system.<br/>
 
 ---
 
-## 🔮 A.L.I.C.E — *Powered by Alice*
+## 🎨 Looking for artists
+
+**The Seed** needs faces. I build the chain, the server and the game; I am looking for people to
+give it a look worth the world behind it (dark magic, floating island, a giant scary tower):
+
+- 🧊 **3D artists**: monsters, props, the Village island and its tower (glTF, low to mid poly, for three.js and mobile)
+- 🖌️ **2D artists / illustrators**: monster art and skins, rune and item icons, banners, key art
+- 🧩 **UI artists**: game screens on the V2 design tokens (gold frames, display font)
+- 🎵 *Sound and music: not yet, later.*
+
+Credit and a share of the project's contribution points (**POC**, earned, never bought) are on the
+table; real money only after audits and a legal frame. See what exists in the
+[showcase](https://github.com/VZero911/THESEED), then write me:
+[vzero911@gmail.com](mailto:vzero911@gmail.com) or Discord **vzero911**.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/A.L.I.C.E-AGI%20Engine-00ffcc?style=for-the-badge&labelColor=07060f" alt="ALICE" />
-  <img src="https://img.shields.io/badge/Status-Active-5fd38d?style=for-the-badge&labelColor=07060f" alt="Active" />
-  <img src="https://img.shields.io/badge/Scope-LOCAL-8f6cf0?style=for-the-badge&labelColor=07060f" alt="Local" />
-</p>
-
-**Autonomous Local Intelligence & Cybernetic Entity.**
-A private AGI engine — voice, vision, defense, financial analysis, self-improvement. Runs 100% local, zero cloud dependency.
-
-| Metric | Value |
-|---|---|
-| Engine | TRUE-ALICE ENGINE v2 (2.5D SVG + CSS3D) |
-| Modules | 17 active |
-| Security levels | 9 tiers |
-| Screens | 3 displays, 4 windows |
-
-<p align="center"><i>To be presented in detail soon.</i> 👁️</p>
-
-<p align="center">
-  <a href="https://github.com/VZero911/A.L.I.C.E-Public"><img src="https://img.shields.io/badge/See-A.L.I.C.E--Public-00ffcc?style=for-the-badge&logo=github&labelColor=07060f" alt="ALICE Public" /></a>
+  <img src="https://img.shields.io/badge/Looking%20for-3D%20artists-8f6cf0?style=for-the-badge&labelColor=07060f" alt="Looking for 3D artists" />
+  <img src="https://img.shields.io/badge/Looking%20for-2D%20artists-f2c14e?style=for-the-badge&labelColor=07060f" alt="Looking for 2D artists" />
+  <img src="https://img.shields.io/badge/Sound-later-5d5a6e?style=for-the-badge&labelColor=07060f" alt="Sound later" />
 </p>
 
 ---
 
 ## 🔭 Right now
 
-- 🔮 **A.L.I.C.E** — AGI engine, 17 modules, TRUE-ALICE ENGINE v2 ([A.L.I.C.E-Public](https://github.com/VZero911/A.L.I.C.E-Public))
-- 🌱 **The Seed** — floating-island Village, marketplace UI, graphics V2, admin console in 3D, AI agents ([Showcase](https://github.com/VZero911/The_Seed.V0-Public))
-- 🎮 **TOA Infernal** — Unity 6 game project, dark fantasy
-- 🎨 **Looking for 3D and 2D artists** — see above
-- 🖤 **The Seed OS** — classified 🤫 ([first sprout](https://github.com/VZero911/The_Seed_OS.V0-Public-ArchLinux-Fork-))
+- 🔮 **A.L.I.C.E** — Alice Framework Agi, 36 modules, 106 panels, 132K LoC ([A.L.I.C.E](https://github.com/VZero911/A.L.I.C.E-Public))
+- 🌱 **The Seed** — 585K LoC, 309 contracts, marketplace V2, AI agents ([THESEED](https://github.com/VZero911/THESEED))
+- 🤖 **MCP** — 12-tool AI agent server, x402 micropayments ([MCP](https://github.com/VZero911/MCP))
+- 🤖 **AGENTS** — autonomous public node agents, zero deps ([AGENTS](https://github.com/VZero911/AGENTS))
+- 🎮 **TOA Infernal** — dark fantasy game, 34.6K LoC ([TOA-INFERNAL](https://github.com/VZero911/TOA-INFERNAL))
+- 🌐 **THEROOT** — node server infrastructure ([THEROOT](https://github.com/VZero911/THEROOT))
+- 🖤 **The Seed OS** — classified 🤫 ([The Seed OS](https://github.com/VZero911/The_Seed_OS.V0-Public-ArchLinux-Fork-))
 - 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))
 - 📚 Learning **kernel**, **DevOps** and **cybersecurity**
 

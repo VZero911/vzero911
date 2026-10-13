@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Dashboard-106%20panels-8f6cf0?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/AI%20modules-36-00ffcc?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/MCP%20tools-12-8f6cf0?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Docker-6%20containers-2496ED?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Docker-7%20containers-2496ED?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Tools-156-5fd38d?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Docs-319-c0caf5?style=flat-square&labelColor=07060f" />
 </p>
@@ -112,7 +112,6 @@ An evolving **Web3 + AI** environment, and its first use: a monster-collecting g
 | 📊 **Scale** | 585K LoC · 1.2K commits · 309 contracts |
 
 <p align="center">
-  <a href="https://vzero911.github.io/The_Seed.V0-Public/"><img src="https://img.shields.io/badge/Website-The%20Seed%20by%20V0-f2c14e?style=for-the-badge&labelColor=07060f" alt="The Seed website" /></a>
   <a href="https://github.com/VZero911/THESEED"><img src="https://img.shields.io/badge/See%20the%20showcase-THESEED-8f6cf0?style=for-the-badge&logo=github&labelColor=07060f" alt="Showcase" /></a>
 </p>
 
@@ -160,7 +159,7 @@ An AI agent framework — monitoring, automation, chain sync, self-healing. Runs
 | AI modules | 36 active |
 | MCP server | 12 tools for Agent / Cursor |
 | x402 routes | 12 paid API routes (USDC on Base) |
-| Docker | 6 containers, auto-managed |
+| Docker | 7 containers (incl. Ollama LLM) |
 | Tools | 156 scripts |
 | Lines of code | 132K |
 

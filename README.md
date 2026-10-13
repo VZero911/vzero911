@@ -217,7 +217,6 @@ table; real money only after audits and a legal frame. See what exists in the
 - 🤖 **MCP** — 36-tool AI agent server, x402 micropayments ([MCP](https://github.com/VZero911/MCP))
 - 🤖 **AGENTS** — autonomous public node agents, zero deps ([AGENTS](https://github.com/VZero911/AGENTS))
 - 🎮 **TOA Infernal** — dark fantasy game, 34.6K LoC ([TOA-INFERNAL](https://github.com/VZero911/TOA-INFERNAL))
-- 🌐 **THEROOT** — node server infrastructure ([THEROOT](https://github.com/VZero911/THEROOT))
 - 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))
 - 📚 Learning **kernel**, **DevOps** and **cybersecurity**
 

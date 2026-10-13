@@ -10,19 +10,22 @@
 <p align="center"><img src="assets/counters.svg?v=46" alt="Profile views, stars, followers, streak, contributions, level and languages" /></p>
 <p align="center"><img src="assets/milestones.svg" alt="Milestones: commits, merged pull requests, issues, reviews, repositories" /></p>
 <!-- loc -->
-<p align="center"><sub>Lines of code (code + tests): The Seed 585K · A.L.I.C.E 132K · TOA - Infernal 34.6K · The Seed OS 1.2K</sub></p>
+<p align="center"><sub>Lines of code (code + tests): The Seed 585K · A.L.I.C.E 132K · TOA - Infernal 34.6K</sub></p>
 <!-- /loc -->
 
 <!-- metrics -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20commits-2.3K-c0caf5?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Total%20LoC-753K-c0caf5?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Total%20commits-2.3K-c0caf5?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Smart%20contracts-309-f2c14e?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Test%20files-621-ea4335?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Dashboard%20panels-106-8f6cf0?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/AI%20modules-36-00ffcc?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/MCP%20tools-12-8f6cf0?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Docker%20containers-6-2496ED?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Tools-156-5fd38d?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Test%20files-621-ea4335?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Docs-319%20files-c0caf5?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Repos-9%20public-c0caf5?style=flat-square&labelColor=07060f" />
 </p>
 <!-- /metrics -->
 
@@ -152,23 +155,21 @@ first.**
 </p>
 
 **Autonomous Local Intelligence & Cybernetic Entity.**
-An AI agent framework — voice, vision, defense, financial analysis, self-improvement. Runs 100% local, zero cloud dependency.
+An AI agent framework — monitoring, automation, chain sync, self-healing. Runs 100% local, zero cloud dependency.
 
 | Metric | Value |
 |---|---|
 | Framework | Alice Framework Agi V0 |
-| Dashboard panels | 106 React components |
+| Dashboard | 106 React panels |
 | AI modules | 36 active |
-| x402 endpoints | 12 paid API routes (USDC on Base) |
-| Docker containers | 6 (master, general, anvil, postgres, toa, pandora) |
-| Tools | 156 scripts (Python, Node.js, Bash) |
-| Lines of code | 132K |
-| Security layers | L-3 to L9+1 (14 levels) |
 | MCP server | 12 tools for Agent / Cursor |
-| Agents | Autonomous public nodes, zero deps |
+| x402 routes | 12 paid API routes (USDC on Base) |
+| Docker | 6 containers, auto-managed |
+| Tools | 156 scripts |
+| Lines of code | 132K |
 
 <p align="center">
-  <a href="https://github.com/VZero911/A.L.I.C.E-Public"><img src="https://img.shields.io/badge/See-A.L.I.C.E-00ffcc?style=for-the-badge&logo=github&labelColor=07060f" alt="ALICE" /></a>
+  <a href="https://github.com/VZero911/A.L.I.C.E"><img src="https://img.shields.io/badge/See-A.L.I.C.E-00ffcc?style=for-the-badge&logo=github&labelColor=07060f" alt="ALICE" /></a>
   <a href="https://github.com/VZero911/MCP"><img src="https://img.shields.io/badge/MCP-Server-8f6cf0?style=for-the-badge&logo=github&labelColor=07060f" alt="MCP" /></a>
   <a href="https://github.com/VZero911/AGENTS"><img src="https://img.shields.io/badge/AGENTS-Public%20Nodes-5fd38d?style=for-the-badge&logo=github&labelColor=07060f" alt="AGENTS" /></a>
 </p>
@@ -180,24 +181,14 @@ An AI agent framework — voice, vision, defense, financial analysis, self-impro
 <p align="center">
   <img src="https://img.shields.io/badge/TOA-Infernal-ea4335?style=for-the-badge&labelColor=07060f" alt="TOA Infernal" />
   <img src="https://img.shields.io/badge/Status-In%20Progress-f2c14e?style=for-the-badge&labelColor=07060f" alt="In Progress" />
+  <img src="https://img.shields.io/badge/LoC-34.6K-c0caf5?style=for-the-badge&labelColor=07060f" alt="LoC" />
 </p>
 
-Dark fantasy game project. 34.6K LoC.
+Dark fantasy game project — real-time backend, match coordination, event streaming.
 
 <p align="center">
   <a href="https://github.com/VZero911/TOA-INFERNAL"><img src="https://img.shields.io/badge/See-TOA--INFERNAL-ea4335?style=for-the-badge&logo=github&labelColor=07060f" alt="TOA" /></a>
 </p>
-
----
-
-## 🖤 The Seed OS — *something is growing*
-
-<p align="center"><img src="assets/seedos.svg?v=15" alt="The Seed OS" width="100%" /></p>
-
-<p align="center"><i>Same seed. Another soil.</i><br/>
-An operating system, built from an Arch Linux base, where the wallet is the identity and the AI is
-not an app — it is part of the system.<br/>
-<b>Nothing more for now.</b> 👁️</p>
 
 ---
 
@@ -226,13 +217,12 @@ table; real money only after audits and a legal frame. See what exists in the
 
 ## 🔭 Right now
 
-- 🔮 **A.L.I.C.E** — Alice Framework Agi, 36 modules, 106 panels, 132K LoC ([A.L.I.C.E](https://github.com/VZero911/A.L.I.C.E-Public))
+- 🔮 **A.L.I.C.E** — Alice Framework Agi, 36 modules, 106 panels, 132K LoC ([A.L.I.C.E](https://github.com/VZero911/A.L.I.C.E))
 - 🌱 **The Seed** — 585K LoC, 309 contracts, marketplace V2, AI agents ([THESEED](https://github.com/VZero911/THESEED))
 - 🤖 **MCP** — 12-tool AI agent server, x402 micropayments ([MCP](https://github.com/VZero911/MCP))
 - 🤖 **AGENTS** — autonomous public node agents, zero deps ([AGENTS](https://github.com/VZero911/AGENTS))
 - 🎮 **TOA Infernal** — dark fantasy game, 34.6K LoC ([TOA-INFERNAL](https://github.com/VZero911/TOA-INFERNAL))
 - 🌐 **THEROOT** — node server infrastructure ([THEROOT](https://github.com/VZero911/THEROOT))
-- 🖤 **The Seed OS** — classified 🤫 ([The Seed OS](https://github.com/VZero911/The_Seed_OS.V0-Public-ArchLinux-Fork-))
 - 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))
 - 📚 Learning **kernel**, **DevOps** and **cybersecurity**
 

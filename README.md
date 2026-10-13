@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dashboard-106%20panels-8f6cf0?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/AI%20modules-36-00ffcc?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/MCP%20tools-12-8f6cf0?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/MCP%20tools-36-8f6cf0?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Docker-7%20containers-2496ED?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Tools-156-5fd38d?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Docs-319-c0caf5?style=flat-square&labelColor=07060f" />
@@ -157,9 +157,9 @@ An AI agent framework — monitoring, automation, chain sync, self-healing. Runs
 | Framework | Alice Framework Agi V0 |
 | Dashboard | 106 React panels |
 | AI modules | 36 active |
-| MCP server | 12 tools for Claude Code / Cursor |
-| x402 routes | 12 paid API routes (USDC on Base) |
-| Docker | 7 containers (incl. Ollama LLM) |
+| MCP server | 36 tools for Claude Code / Cursor |
+| x402 routes | 36 paid API routes (USDC on Base) |
+| Docker | 7 containers (Ollama LLM included) |
 | Tools | 156 scripts |
 | Lines of code | 132K |
 
@@ -214,7 +214,7 @@ table; real money only after audits and a legal frame. See what exists in the
 
 - 🔮 **A.L.I.C.E** — Alice Framework Agi, 36 modules, 106 panels, 132K LoC ([A.L.I.C.E](https://github.com/VZero911/A.L.I.C.E))
 - 🌱 **The Seed** — 585K LoC, 309 contracts, marketplace V2, AI agents ([THESEED](https://github.com/VZero911/THESEED))
-- 🤖 **MCP** — 12-tool AI agent server, x402 micropayments ([MCP](https://github.com/VZero911/MCP))
+- 🤖 **MCP** — 36-tool AI agent server, x402 micropayments ([MCP](https://github.com/VZero911/MCP))
 - 🤖 **AGENTS** — autonomous public node agents, zero deps ([AGENTS](https://github.com/VZero911/AGENTS))
 - 🎮 **TOA Infernal** — dark fantasy game, 34.6K LoC ([TOA-INFERNAL](https://github.com/VZero911/TOA-INFERNAL))
 - 🌐 **THEROOT** — node server infrastructure ([THEROOT](https://github.com/VZero911/THEROOT))

@@ -7,26 +7,22 @@
   <img src="https://img.shields.io/badge/AI-Agents%20%26%20MCP-8f6cf0?style=for-the-badge&logo=modelcontextprotocol&logoColor=white&labelColor=07060f" alt="AI agents" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance-5fd38d?style=for-the-badge&labelColor=07060f" alt="Open to Freelance" />
 </p>
-<p align="center"><img src="assets/counters.svg?v=46" alt="Profile views, stars, followers, streak, contributions, level and languages" /></p>
-<p align="center"><img src="assets/milestones.svg" alt="Milestones: commits, merged pull requests, issues, reviews, repositories" /></p>
-<!-- loc -->
-<p align="center"><sub>Lines of code (code + tests): The Seed 585K · A.L.I.C.E 132K · TOA - Infernal 34.6K</sub></p>
-<!-- /loc -->
-
-<!-- metrics -->
+<!-- metrics — real project stats, not GitHub-only -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20LoC-753K-c0caf5?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Total%20commits-2.3K-c0caf5?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Smart%20contracts-309-f2c14e?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Test%20files-621-ea4335?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Dashboard%20panels-106-8f6cf0?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Total%20LoC-753K-c0caf5?style=for-the-badge&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Commits-2.3K-c0caf5?style=for-the-badge&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Contracts-309-f2c14e?style=for-the-badge&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Tests-621-ea4335?style=for-the-badge&labelColor=07060f" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dashboard-106%20panels-8f6cf0?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/AI%20modules-36-00ffcc?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/MCP%20tools-12-8f6cf0?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Docker%20containers-6-2496ED?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Docker-6%20containers-2496ED?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Tools-156-5fd38d?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Docs-319%20files-c0caf5?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Repos-9%20public-c0caf5?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Docs-319-c0caf5?style=flat-square&labelColor=07060f" />
 </p>
+<p align="center"><sub>The Seed 585K · A.L.I.C.E 132K · TOA Infernal 34.6K — real metrics from local codebase, not GitHub stats</sub></p>
 <!-- /metrics -->
 
 ## 🧰 Tech stack

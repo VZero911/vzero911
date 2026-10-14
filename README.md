@@ -141,12 +141,12 @@ An AI agent framework — monitoring, automation, chain sync, self-healing. Runs
 | Metric | Value |
 |---|---|
 | Framework | Alice Framework Agi V0 |
-| Dashboard | 106 React panels |
+| Dashboard | 111 React panels |
 | AI modules | 36 active |
 | MCP server | 36 tools for Agent / Cursor |
 | Docker | 7 containers (Ollama LLM included) |
-| Tools | 235 scripts |
-| Lines of code | 132K |
+| Tools | 256 scripts |
+| Lines of code | 135K |
 
 <p align="center">
   <a href="https://github.com/VZero911/A.L.I.C.E"><img src="https://img.shields.io/badge/See-A.L.I.C.E-00ffcc?style=for-the-badge&logo=github&labelColor=07060f" alt="ALICE" /></a>
@@ -197,7 +197,7 @@ table; real money only after audits and a legal frame. See what exists in the
 
 ## 🔭 Right now
 
-- 🔮 **A.L.I.C.E** — Alice Framework Agi, 36 modules, 106 panels, 132K LoC ([A.L.I.C.E](https://github.com/VZero911/A.L.I.C.E))
+- 🔮 **A.L.I.C.E** — Alice Framework Agi, 36 modules, 111 panels, 135K LoC ([A.L.I.C.E](https://github.com/VZero911/A.L.I.C.E))
 - 🌱 **The Seed** — 585K LoC, 309 contracts, marketplace V2, AI agents ([THESEED](https://github.com/VZero911/THESEED))
 - 🔧 **ALICEHUB** — centralized hub, CDT/CPT/TKN ledger, node mesh ([ALICEHUB](https://github.com/VZero911/ALICEHUB))
 - 🏗️ **THEROOT** — kernel & infrastructure backbone ([THEROOT](https://github.com/VZero911/THEROOT))

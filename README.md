@@ -199,7 +199,9 @@ table; real money only after audits and a legal frame. See what exists in the
 
 - 🔮 **A.L.I.C.E** — Alice Framework Agi, 36 modules, 106 panels, 132K LoC ([A.L.I.C.E](https://github.com/VZero911/A.L.I.C.E))
 - 🌱 **The Seed** — 585K LoC, 309 contracts, marketplace V2, AI agents ([THESEED](https://github.com/VZero911/THESEED))
-- 🤖 **MCP** — 36-tool AI agent server, x402 micropayments ([MCP](https://github.com/VZero911/MCP))
+- 🔧 **ALICEHUB** — centralized hub, CDT/CPT/TKN ledger, node mesh ([ALICEHUB](https://github.com/VZero911/ALICEHUB))
+- 🏗️ **THEROOT** — kernel & infrastructure backbone ([THEROOT](https://github.com/VZero911/THEROOT))
+- 🤖 **MCP** — 36-tool AI agent server, USDC micropayments ([MCP](https://github.com/VZero911/MCP))
 - 🤖 **AGENTS** — autonomous public node agents, zero deps ([AGENTS](https://github.com/VZero911/AGENTS))
 - 🎮 **TOA Infernal** — dark fantasy game, 34.6K LoC ([TOA-INFERNAL](https://github.com/VZero911/TOA-INFERNAL))
 - 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))

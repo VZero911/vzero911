@@ -40,9 +40,9 @@
 <g transform="translate(544,40)">
   <rect width="168" height="72" rx="8" fill="#12121c" stroke="#ea4335" stroke-opacity="0.4" stroke-width="1"/>
   <rect width="168" height="3" rx="2" fill="#ea4335" opacity="0.6"/>
-  <text x="84" y="34" fill="#ea4335" font-size="22" font-weight="800" text-anchor="middle">621</text>
+  <text x="84" y="34" fill="#ea4335" font-size="22" font-weight="800" text-anchor="middle">4.5K+</text>
   <text x="84" y="54" fill="#787c99" font-size="8" letter-spacing="1" text-anchor="middle">UNIT TESTS</text>
-  <text x="84" y="65" fill="#5d5a6e" font-size="6.5" text-anchor="middle">contract + backend + game + browser</text>
+  <text x="84" y="65" fill="#5d5a6e" font-size="6.5" text-anchor="middle">contract + backend + game + engine</text>
 </g>
 <g transform="translate(720,40)">
   <rect width="164" height="72" rx="8" fill="#12121c" stroke="#5fd38d" stroke-opacity="0.4" stroke-width="1"/>

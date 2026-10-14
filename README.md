@@ -143,7 +143,7 @@ An AI agent framework — monitoring, automation, chain sync, self-healing. Runs
 | Framework | Alice Framework Agi V0 |
 | Dashboard | 112 React panels |
 | AI modules | 36 active |
-| MCP server | 97 tools for Agent / Cursor |
+| MCP server | 255+ tools for Agent / Cursor |
 | Docker | 7 containers (Ollama LLM included) |
 | Tools | 260 scripts |
 | Lines of code | 140K |

@@ -94,7 +94,7 @@ An evolving **Web3 + AI** environment, and its first use: a monster-collecting g
 | 🎮 **Game** | Expo · React Native (mobile + web) — summons, runes, dungeons, tower, world boss, guilds, marketplace (UI V2), 88 test files |
 | 🖥️ **Admin console** | React · wagmi · **three.js** — live 3D view of the chain with wallets, block explorer, players, market, AI agents |
 | 🤖 **AI** | automation registry, agent runs, MCP servers — the project is built to run itself |
-| ✅ **Quality** | 621 test files, 18 browser walks on an isolated stack, security and licence scans, balance simulation |
+| ✅ **Quality** | 4.5K+ unit test files, 18 browser walks on an isolated stack, security and licence scans, balance simulation |
 | 📊 **Scale** | 585K LoC · 1.2K commits · 309 contracts |
 
 <p align="center">

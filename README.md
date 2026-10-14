@@ -7,22 +7,8 @@
   <img src="https://img.shields.io/badge/AI-Agents%20%26%20MCP-8f6cf0?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=07060f" alt="AI agents" />
   <img src="https://img.shields.io/badge/Open%20to-Freelance-5fd38d?style=for-the-badge&labelColor=07060f" alt="Open to Freelance" />
 </p>
-<!-- metrics — real project stats, not GitHub-only -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20LoC-753K-c0caf5?style=for-the-badge&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Commits-2.3K-c0caf5?style=for-the-badge&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Contracts-309-f2c14e?style=for-the-badge&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Tests-621-ea4335?style=for-the-badge&labelColor=07060f" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Dashboard-106%20panels-8f6cf0?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/AI%20modules-36-00ffcc?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/MCP%20tools-36-8f6cf0?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Docker-7%20containers-2496ED?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Tools-156-5fd38d?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Docs-319-c0caf5?style=flat-square&labelColor=07060f" />
-</p>
-<p align="center"><sub>The Seed 585K · A.L.I.C.E 132K · TOA Infernal 34.6K — real metrics from local codebase, not GitHub stats</sub></p>
+<!-- metrics widget — real project stats from local machine -->
+<p align="center"><img src="assets/metrics.svg" alt="V0 Metrics" width="100%" /></p>
 <!-- /metrics -->
 
 ## 🧰 Tech stack
@@ -53,7 +39,7 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-Alembic-d71f00?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Claude%20Code-AI%20pair-d97757?style=flat-square&logo=anthropic&labelColor=07060f" />
   <img src="https://img.shields.io/badge/MCP-servers-8f6cf0?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/x402-micropayments-00ffcc?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/USDC-Base-00ffcc?style=flat-square&labelColor=07060f" />
 </p>
 
 
@@ -158,9 +144,8 @@ An AI agent framework — monitoring, automation, chain sync, self-healing. Runs
 | Dashboard | 106 React panels |
 | AI modules | 36 active |
 | MCP server | 36 tools for Claude Code / Cursor |
-| x402 routes | 36 paid API routes (USDC on Base) |
-| Docker | 7 containers (Ollama LLM included) |
-| Tools | 156 scripts |
+| Docker | 6 containers (Ollama LLM included) |
+| Tools | 149 scripts |
 | Lines of code | 132K |
 
 <p align="center">

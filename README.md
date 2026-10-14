@@ -83,7 +83,7 @@ class V0:
 
 </details>
 
-An evolving **Web3 + AI** environment, and its first use: a monster-collecting game where monsters, runes and items are
+An evolving **Blockchain/Data** infrastructure, and its first application: a monster-collecting game where monsters, runes and items are
 **tokenized assets** you truly own, on-chain. Your identity is a **wallet**; trades between players go through
 **smart contracts** (escrow, auctions, on-chain royalties); every action is **signed for free** (gasless) and relayed by the game.
 

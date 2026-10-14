@@ -141,12 +141,12 @@ An AI agent framework — monitoring, automation, chain sync, self-healing. Runs
 | Metric | Value |
 |---|---|
 | Framework | Alice Framework Agi V0 |
-| Dashboard | 111 React panels |
+| Dashboard | 112 React panels |
 | AI modules | 36 active |
-| MCP server | 36 tools for Claude Code / Cursor |
+| MCP server | 97 tools for Claude Code / Cursor |
 | Docker | 7 containers (Ollama LLM included) |
-| Tools | 256 scripts |
-| Lines of code | 135K |
+| Tools | 260 scripts |
+| Lines of code | 140K |
 
 <p align="center">
   <a href="https://github.com/VZero911/A.L.I.C.E"><img src="https://img.shields.io/badge/See-A.L.I.C.E-00ffcc?style=for-the-badge&logo=github&labelColor=07060f" alt="ALICE" /></a>
@@ -197,11 +197,11 @@ table; real money only after audits and a legal frame. See what exists in the
 
 ## 🔭 Right now
 
-- 🔮 **A.L.I.C.E** — Alice Framework Agi, 36 modules, 111 panels, 135K LoC ([A.L.I.C.E](https://github.com/VZero911/A.L.I.C.E))
+- 🔮 **A.L.I.C.E** — Alice Framework Agi, 36 modules, 112 panels, 140K LoC ([A.L.I.C.E](https://github.com/VZero911/A.L.I.C.E))
 - 🌱 **The Seed** — 585K LoC, 309 contracts, marketplace V2, AI agents ([THESEED](https://github.com/VZero911/THESEED))
 - 🔧 **ALICEHUB** — centralized hub, CDT/CPT/TKN ledger, node mesh ([ALICEHUB](https://github.com/VZero911/ALICEHUB))
 - 🏗️ **THEROOT** — kernel & infrastructure backbone ([THEROOT](https://github.com/VZero911/THEROOT))
-- 🤖 **MCP** — 36-tool AI agent server, USDC micropayments ([MCP](https://github.com/VZero911/MCP))
+- 🤖 **MCP** — 97-tool AI agent server, USDC micropayments ([MCP](https://github.com/VZero911/MCP))
 - 🤖 **AGENTS** — autonomous public node agents, zero deps ([AGENTS](https://github.com/VZero911/AGENTS))
 - 🎮 **TOA Infernal** — dark fantasy game, 34.6K LoC ([TOA-INFERNAL](https://github.com/VZero911/TOA-INFERNAL))
 - 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))

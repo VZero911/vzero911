@@ -52,7 +52,7 @@ class V0:
     school      = "42"
     roles       = ["Full-Stack Developer", "AI Developer", "Blockchain Developer", "Software Engineer"]
     learning    = ["Kernel", "DevOps", "Cybersecurity"]
-    building    = ["🌱 The Seed — Web3 + AI game", "🔮 A.L.I.C.E — AI agent framework",
+    building    = ["🌱 The Seed — Blockchain/Data", "🔮 A.L.I.C.E — AI agent framework",
                    "🎮 TOA Infernal — dark fantasy game", "🤖 MCP + AGENTS — AI tooling"]
     powered_by  = "ALICE"
     style       = "ship clean, test twice, automate everything"
@@ -144,8 +144,8 @@ An AI agent framework — monitoring, automation, chain sync, self-healing. Runs
 | Dashboard | 106 React panels |
 | AI modules | 36 active |
 | MCP server | 36 tools for Claude Code / Cursor |
-| Docker | 6 containers (Ollama LLM included) |
-| Tools | 149 scripts |
+| Docker | 7 containers (Ollama LLM included) |
+| Tools | 235 scripts |
 | Lines of code | 132K |
 
 <p align="center">

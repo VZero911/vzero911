@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" font-family="Segoe UI, Ubuntu, sans-serif">
+<title>V0 Skills &amp; Competences</title>
+<defs>
+  <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07060f"/>
+    <stop offset="1" stop-color="#0d0a2e"/>
+  </linearGradient>
+  <linearGradient id="sbar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00ffcc"/>
+    <stop offset=".5" stop-color="#8f6cf0"/>
+    <stop offset="1" stop-color="#f2c14e"/>
+  </linearGradient>
+</defs>
+<rect width="900" height="420" rx="12" fill="url(#sbg)" stroke="#1e1940" stroke-width="1.5"/>
+<rect x="0" y="0" width="900" height="3" rx="2" fill="url(#sbar)"/>
+<text x="24" y="26" fill="#00ffcc" font-size="10" font-weight="700" letter-spacing="3">V0 — SKILLS &amp; COMPETENCES</text>
+<text x="876" y="26" fill="#5d5a6e" font-size="8" text-anchor="end">Powered by A.L.I.C.E</text>
+
+<!-- Section: Languages -->
+<text x="24" y="52" fill="#787c99" font-size="8" font-weight="700" letter-spacing="2">LANGUAGES</text>
+<g transform="translate(16,60)">
+  <rect width="85" height="40" rx="6" fill="#12121c" stroke="#00ffcc" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="42" y="18" fill="#00ffcc" font-size="10" font-weight="700" text-anchor="middle">Python</text>
+  <text x="42" y="32" fill="#5d5a6e" font-size="8" text-anchor="middle">207 files</text>
+</g>
+<g transform="translate(106,60)">
+  <rect width="85" height="40" rx="6" fill="#12121c" stroke="#00ffcc" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="42" y="18" fill="#00ffcc" font-size="10" font-weight="700" text-anchor="middle">TypeScript</text>
+  <text x="42" y="32" fill="#5d5a6e" font-size="8" text-anchor="middle">146 files</text>
+</g>
+<g transform="translate(196,60)">
+  <rect width="85" height="40" rx="6" fill="#12121c" stroke="#00ffcc" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="42" y="18" fill="#00ffcc" font-size="10" font-weight="700" text-anchor="middle">JavaScript</text>
+  <text x="42" y="32" fill="#5d5a6e" font-size="8" text-anchor="middle">33 files</text>
+</g>
+<g transform="translate(286,60)">
+  <rect width="85" height="40" rx="6" fill="#12121c" stroke="#f2c14e" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="42" y="18" fill="#f2c14e" font-size="10" font-weight="700" text-anchor="middle">Solidity</text>
+  <text x="42" y="32" fill="#5d5a6e" font-size="8" text-anchor="middle">14 contracts</text>
+</g>
+<g transform="translate(376,60)">
+  <rect width="85" height="40" rx="6" fill="#12121c" stroke="#8f6cf0" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="42" y="18" fill="#8f6cf0" font-size="10" font-weight="700" text-anchor="middle">C / C++</text>
+  <text x="42" y="32" fill="#5d5a6e" font-size="8" text-anchor="middle">42 school</text>
+</g>
+<g transform="translate(466,60)">
+  <rect width="85" height="40" rx="6" fill="#12121c" stroke="#00ffcc" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="42" y="18" fill="#00ffcc" font-size="10" font-weight="700" text-anchor="middle">Bash</text>
+  <text x="42" y="32" fill="#5d5a6e" font-size="8" text-anchor="middle">74 scripts</text>
+</g>
+<g transform="translate(556,60)">
+  <rect width="85" height="40" rx="6" fill="#12121c" stroke="#8f6cf0" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="42" y="18" fill="#8f6cf0" font-size="10" font-weight="700" text-anchor="middle">HTML/CSS</text>
+  <text x="42" y="32" fill="#5d5a6e" font-size="8" text-anchor="middle">web</text>
+</g>
+<g transform="translate(646,60)">
+  <rect width="85" height="40" rx="6" fill="#12121c" stroke="#ea4335" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="42" y="18" fill="#ea4335" font-size="10" font-weight="700" text-anchor="middle">ASM</text>
+  <text x="42" y="32" fill="#5d5a6e" font-size="8" text-anchor="middle">low-level</text>
+</g>
+<g transform="translate(736,60)">
+  <rect width="72" height="40" rx="6" fill="#12121c" stroke="#5d5a6e" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="36" y="18" fill="#c0caf5" font-size="10" font-weight="700" text-anchor="middle">JSON</text>
+  <text x="36" y="32" fill="#5d5a6e" font-size="8" text-anchor="middle">804</text>
+</g>
+<g transform="translate(813,60)">
+  <rect width="72" height="40" rx="6" fill="#12121c" stroke="#2496ED" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="36" y="18" fill="#2496ED" font-size="10" font-weight="700" text-anchor="middle">Docker</text>
+  <text x="36" y="32" fill="#5d5a6e" font-size="8" text-anchor="middle">files</text>
+</g>
+
+<!-- Section: Frameworks -->
+<text x="24" y="120" fill="#787c99" font-size="8" font-weight="700" letter-spacing="2">FRAMEWORKS &amp; LIBRARIES</text>
+<g transform="translate(16,128)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#8f6cf0" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#8f6cf0" font-size="10" font-weight="700" text-anchor="middle">React/TSX</text>
+</g>
+<g transform="translate(106,128)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#8f6cf0" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#b24cff" font-size="10" font-weight="700" text-anchor="middle">Vite</text>
+</g>
+<g transform="translate(196,128)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#5fd38d" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#5fd38d" font-size="10" font-weight="700" text-anchor="middle">Node.js</text>
+</g>
+<g transform="translate(286,128)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#00ffcc" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#00ffcc" font-size="10" font-weight="700" text-anchor="middle">FastAPI</text>
+</g>
+<g transform="translate(376,128)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#f2c14e" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#f2c14e" font-size="10" font-weight="700" text-anchor="middle">Foundry</text>
+</g>
+<g transform="translate(466,128)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#c0caf5" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#c0caf5" font-size="10" font-weight="700" text-anchor="middle">Electron</text>
+</g>
+<g transform="translate(556,128)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#8f6cf0" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#8f6cf0" font-size="10" font-weight="700" text-anchor="middle">Three.js</text>
+</g>
+<g transform="translate(646,128)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#ea4335" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#ea4335" font-size="10" font-weight="700" text-anchor="middle">Flask</text>
+</g>
+<g transform="translate(736,128)">
+  <rect width="72" height="36" rx="6" fill="#12121c" stroke="#00b4d8" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="36" y="22" fill="#00b4d8" font-size="10" font-weight="700" text-anchor="middle">Tailwind</text>
+</g>
+<g transform="translate(813,128)">
+  <rect width="72" height="36" rx="6" fill="#12121c" stroke="#c0caf5" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="36" y="22" fill="#c0caf5" font-size="10" font-weight="700" text-anchor="middle">Expo</text>
+</g>
+
+<!-- Section: Infrastructure -->
+<text x="24" y="184" fill="#787c99" font-size="8" font-weight="700" letter-spacing="2">INFRASTRUCTURE &amp; TOOLING</text>
+<g transform="translate(16,192)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#2496ED" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#2496ED" font-size="10" font-weight="700" text-anchor="middle">Docker</text>
+</g>
+<g transform="translate(106,192)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#336791" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#5d93bd" font-size="10" font-weight="700" text-anchor="middle">Postgres</text>
+</g>
+<g transform="translate(196,192)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#f2c14e" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#f2c14e" font-size="10" font-weight="700" text-anchor="middle">Linux</text>
+</g>
+<g transform="translate(286,192)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#ff6600" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#ff6600" font-size="10" font-weight="700" text-anchor="middle">Git</text>
+</g>
+<g transform="translate(376,192)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#ea4335" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#ea4335" font-size="10" font-weight="700" text-anchor="middle">Redis</text>
+</g>
+<g transform="translate(466,192)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#8f6cf0" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#8f6cf0" font-size="10" font-weight="700" text-anchor="middle">geth</text>
+</g>
+<g transform="translate(556,192)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#c0caf5" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#c0caf5" font-size="10" font-weight="700" text-anchor="middle">Ollama</text>
+</g>
+<g transform="translate(646,192)">
+  <rect width="85" height="36" rx="6" fill="#12121c" stroke="#5fd38d" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="42" y="22" fill="#5fd38d" font-size="10" font-weight="700" text-anchor="middle">FFmpeg</text>
+</g>
+<g transform="translate(736,192)">
+  <rect width="72" height="36" rx="6" fill="#12121c" stroke="#3ecf8e" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="36" y="22" fill="#3ecf8e" font-size="9" font-weight="700" text-anchor="middle">Supabase</text>
+</g>
+<g transform="translate(813,192)">
+  <rect width="72" height="36" rx="6" fill="#12121c" stroke="#c0caf5" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="36" y="22" fill="#c0caf5" font-size="8" font-weight="700" text-anchor="middle">GH Actions</text>
+</g>
+
+<!-- Section: Domains -->
+<text x="24" y="248" fill="#787c99" font-size="8" font-weight="700" letter-spacing="2">DOMAINS</text>
+<g transform="translate(16,256)">
+  <rect width="120" height="44" rx="8" fill="#12121c" stroke="#00ffcc" stroke-opacity="0.5" stroke-width="1"/>
+  <rect width="120" height="2.5" rx="2" fill="#00ffcc" opacity="0.5"/>
+  <text x="60" y="20" fill="#00ffcc" font-size="11" font-weight="800" text-anchor="middle">AI / LLM</text>
+  <text x="60" y="35" fill="#5d5a6e" font-size="7" text-anchor="middle">agents · MCP · fine-tune</text>
+</g>
+<g transform="translate(142,256)">
+  <rect width="120" height="44" rx="8" fill="#12121c" stroke="#f2c14e" stroke-opacity="0.5" stroke-width="1"/>
+  <rect width="120" height="2.5" rx="2" fill="#f2c14e" opacity="0.5"/>
+  <text x="60" y="20" fill="#f2c14e" font-size="11" font-weight="800" text-anchor="middle">Blockchain</text>
+  <text x="60" y="35" fill="#5d5a6e" font-size="7" text-anchor="middle">Solidity · EVM · DeFi</text>
+</g>
+<g transform="translate(268,256)">
+  <rect width="120" height="44" rx="8" fill="#12121c" stroke="#ea4335" stroke-opacity="0.5" stroke-width="1"/>
+  <rect width="120" height="2.5" rx="2" fill="#ea4335" opacity="0.5"/>
+  <text x="60" y="20" fill="#ea4335" font-size="11" font-weight="800" text-anchor="middle">Cybersecurity</text>
+  <text x="60" y="35" fill="#5d5a6e" font-size="7" text-anchor="middle">274 tools · audit · defense</text>
+</g>
+<g transform="translate(394,256)">
+  <rect width="120" height="44" rx="8" fill="#12121c" stroke="#8f6cf0" stroke-opacity="0.5" stroke-width="1"/>
+  <rect width="120" height="2.5" rx="2" fill="#8f6cf0" opacity="0.5"/>
+  <text x="60" y="20" fill="#8f6cf0" font-size="11" font-weight="800" text-anchor="middle">Full-Stack</text>
+  <text x="60" y="35" fill="#5d5a6e" font-size="7" text-anchor="middle">React · FastAPI · Postgres</text>
+</g>
+<g transform="translate(520,256)">
+  <rect width="120" height="44" rx="8" fill="#12121c" stroke="#2496ED" stroke-opacity="0.5" stroke-width="1"/>
+  <rect width="120" height="2.5" rx="2" fill="#2496ED" opacity="0.5"/>
+  <text x="60" y="20" fill="#2496ED" font-size="11" font-weight="800" text-anchor="middle">DevOps</text>
+  <text x="60" y="35" fill="#5d5a6e" font-size="7" text-anchor="middle">Docker · CI/CD · Linux</text>
+</g>
+<g transform="translate(646,256)">
+  <rect width="120" height="44" rx="8" fill="#12121c" stroke="#b24cff" stroke-opacity="0.5" stroke-width="1"/>
+  <rect width="120" height="2.5" rx="2" fill="#b24cff" opacity="0.5"/>
+  <text x="60" y="20" fill="#b24cff" font-size="11" font-weight="800" text-anchor="middle">Game Dev</text>
+  <text x="60" y="35" fill="#5d5a6e" font-size="7" text-anchor="middle">Expo · Three.js · ECS</text>
+</g>
+<g transform="translate(772,256)">
+  <rect width="112" height="44" rx="8" fill="#12121c" stroke="#5fd38d" stroke-opacity="0.5" stroke-width="1"/>
+  <rect width="112" height="2.5" rx="2" fill="#5fd38d" opacity="0.5"/>
+  <text x="56" y="20" fill="#5fd38d" font-size="11" font-weight="800" text-anchor="middle">Systems</text>
+  <text x="56" y="35" fill="#5d5a6e" font-size="7" text-anchor="middle">kernel · ASM · drivers</text>
+</g>
+
+<!-- Section: Credentials -->
+<text x="24" y="320" fill="#787c99" font-size="8" font-weight="700" letter-spacing="2">CREDENTIALS</text>
+<g transform="translate(16,328)">
+  <rect width="138" height="48" rx="8" fill="#12121c" stroke="#c0caf5" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="69" y="20" fill="#c0caf5" font-size="12" font-weight="800" text-anchor="middle">42 Paris</text>
+  <text x="69" y="36" fill="#5d5a6e" font-size="7.5" text-anchor="middle">C · C++ · Algorithms</text>
+</g>
+<g transform="translate(162,328)">
+  <rect width="138" height="48" rx="8" fill="#12121c" stroke="#d97757" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="69" y="20" fill="#d97757" font-size="12" font-weight="800" text-anchor="middle">Agent</text>
+  <text x="69" y="36" fill="#5d5a6e" font-size="7.5" text-anchor="middle">AI pair programming</text>
+</g>
+<g transform="translate(308,328)">
+  <rect width="138" height="48" rx="8" fill="#12121c" stroke="#00ffcc" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="69" y="20" fill="#00ffcc" font-size="12" font-weight="800" text-anchor="middle">ALICE V0</text>
+  <text x="69" y="36" fill="#5d5a6e" font-size="7.5" text-anchor="middle">Framework Agi · 279 modules</text>
+</g>
+<g transform="translate(454,328)">
+  <rect width="138" height="48" rx="8" fill="#12121c" stroke="#f2c14e" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="69" y="20" fill="#f2c14e" font-size="12" font-weight="800" text-anchor="middle">Web3 Builder</text>
+  <text x="69" y="36" fill="#5d5a6e" font-size="7.5" text-anchor="middle">Solidity · DeFi · NFT</text>
+</g>
+<g transform="translate(600,328)">
+  <rect width="138" height="48" rx="8" fill="#12121c" stroke="#ea4335" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="69" y="20" fill="#ea4335" font-size="12" font-weight="800" text-anchor="middle">Cyber Ops</text>
+  <text x="69" y="36" fill="#5d5a6e" font-size="7.5" text-anchor="middle">274 tools · 1.2K vulndb</text>
+</g>
+<g transform="translate(746,328)">
+  <rect width="138" height="48" rx="8" fill="#12121c" stroke="#5fd38d" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="69" y="20" fill="#5fd38d" font-size="12" font-weight="800" text-anchor="middle">Freelance</text>
+  <text x="69" y="36" fill="#5d5a6e" font-size="7.5" text-anchor="middle">open to missions</text>
+</g>
+
+<!-- Footer -->
+<text x="450" y="406" fill="#3d3960" font-size="7" text-anchor="middle" letter-spacing="1">Real skills from local codebase — not badges · V0</text>
+</svg>

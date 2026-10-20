@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foundry-forge%20%C2%B7%20anvil-f2a94e?style=flat-square&labelColor=07060f" />
+  <img src="https://img.shields.io/badge/Foundry-forge-f2a94e?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/OpenZeppelin-UUPS-4E5EE4?style=flat-square&logo=openzeppelin&labelColor=07060f" />
   <img src="https://img.shields.io/badge/wagmi%20%2F%20viem-EVM-1c1c1c?style=flat-square&labelColor=07060f" />
   <img src="https://img.shields.io/badge/Expo-React%20Native-000020?style=flat-square&logo=expo&labelColor=07060f" />
@@ -56,7 +56,7 @@ class V0:
     roles       = ["Full-Stack Developer", "AI Developer", "Blockchain Developer", "Software Engineer"]
     learning    = ["Kernel", "DevOps", "Cybersecurity"]
     building    = ["🌱 The Seed — Blockchain/Data", "🔮 A.L.I.C.E — AI agent framework",
-                   "🎮 TOA Infernal — dark fantasy game", "🤖 MCP + AGENTS — AI tooling"]
+                   "🎮 TOA Infernal — dark fantasy game", "🤖 AGENTS — Autonomous AI fleet"]
     powered_by  = "ALICE"
     style       = "ship clean, test twice, automate everything"
     remote      = True

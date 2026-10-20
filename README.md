@@ -14,40 +14,6 @@
 <p align="center"><img src="assets/skills.svg" alt="V0 Skills" width="100%" /></p>
 <!-- /skills -->
 
-## 🧰 Tech stack
-
-**Languages**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="C, C++" />&nbsp;&nbsp;<img src="assets/asm.svg" alt="Assembly" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=python,ts,js,solidity,bash,html,css&perline=7&theme=dark" alt="Languages" />
-</p>
-
-**Web, mobile & 3D**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,tailwind,threejs,fastapi,flask&perline=8&theme=dark" alt="Web" />
-</p>
-
-**Blockchain, data & infra**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,docker,githubactions,linux,arch,git,github,vscode&perline=10&theme=dark" alt="Infra" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Foundry-forge-f2a94e?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/OpenZeppelin-UUPS-4E5EE4?style=flat-square&logo=openzeppelin&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/wagmi%20%2F%20viem-EVM-1c1c1c?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/Expo-React%20Native-000020?style=flat-square&logo=expo&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-Alembic-d71f00?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/MCP-AI%20pair-d97757?style=flat-square&logo=modelcontextprotocol&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/MCP-servers-8f6cf0?style=flat-square&labelColor=07060f" />
-  <img src="https://img.shields.io/badge/USDC-Base-00ffcc?style=flat-square&labelColor=07060f" />
-</p>
-
-
----
-
 ## 👋 About me
 
 ```python
@@ -155,7 +121,6 @@ An AI agent framework — monitoring, automation, chain sync, self-healing. Runs
 
 <p align="center">
   <a href="https://github.com/VZero911/A.L.I.C.E"><img src="https://img.shields.io/badge/See-A.L.I.C.E-00ffcc?style=for-the-badge&logo=github&labelColor=07060f" alt="ALICE" /></a>
-  <a href="https://github.com/VZero911/MCP"><img src="https://img.shields.io/badge/MCP-Server-8f6cf0?style=for-the-badge&logo=github&labelColor=07060f" alt="MCP" /></a>
   <a href="https://github.com/VZero911/AGENTS"><img src="https://img.shields.io/badge/AGENTS-Public%20Nodes-5fd38d?style=for-the-badge&logo=github&labelColor=07060f" alt="AGENTS" /></a>
 </p>
 
@@ -206,7 +171,6 @@ table; real money only after audits and a legal frame. See what exists in the
 - 🌱 **The Seed** — 585K LoC, 309 contracts, marketplace V2, AI agents ([THESEED](https://github.com/VZero911/THESEED))
 - 🔧 **ALICEHUB** — centralized hub, CDT/CPT/TKN ledger, node mesh ([ALICEHUB](https://github.com/VZero911/ALICEHUB))
 - 🏗️ **THEROOT** — kernel & infrastructure backbone ([THEROOT](https://github.com/VZero911/THEROOT))
-- 🤖 **MCP** — 279-tool AI agent server, USDC micropayments, cyber engine ([MCP](https://github.com/VZero911/MCP))
 - 🤖 **AGENTS** — autonomous public node agents, zero deps ([AGENTS](https://github.com/VZero911/AGENTS))
 - 🎮 **TOA Infernal** — dark fantasy game, 34.6K LoC ([TOA-INFERNAL](https://github.com/VZero911/TOA-INFERNAL))
 - 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))

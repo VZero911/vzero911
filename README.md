@@ -77,7 +77,7 @@ without a middleman. The same four steps, on a real example, a **concert ticket*
 
 | Step | In The Seed today | The same mechanism for a ticket |
 |---|---|---|
-| **1. Issue** | Only the `MintManager` contract mints a monster NFT, within a daily budget | The organizer mints exactly 5,000 tickets, nobody can add one |
+| **1. Issue** | Only the `MintManager` contract mints a monster NFT, within a daily budget | The organizer mints exactly 5K tickets, nobody can add one |
 | **2. List** | A player signs a fixed-price sale or an auction (reserve price, anti-sniping) | A fan lists the ticket at face value; the contract can cap the price |
 | **3. Swap** | Escrow: the monster and the payment are locked together and swapped in one transaction | Money and ticket change hands at once: no scam, no "I paid but never got it" |
 | **4. Share** | 2.5 % of each sale goes to the creator, shown *before* you sign | 5 % of every resale goes to the artist, forever, without a platform |
@@ -105,7 +105,7 @@ first.**
 </p>
 
 **Autonomous Local Intelligence & Cybernetic Entity.**
-An AI agent framework — monitoring, automation, chain sync, self-healing. Runs 100% local, zero cloud dependency.
+An AI agent framework — monitoring, automation, chain sync, self-healing. Runs fully local, zero cloud dependency.
 
 | Metric | Value |
 |---|---|

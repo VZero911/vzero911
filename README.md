@@ -3,24 +3,13 @@
   Public-safe: no real name, no internal names, no local paths/ports/IPs,
   rounded figures only, no absolute claims. Art direction = the 3D artifacts:
   near-black 0b0d12, cyan 22d3ee, violet a78bfa, emerald 34d399, text c9d1d9.
-
-  TODO (V):
-    1. assets/hero.gif — 8-12 s capture of "A.L.I.C.E Core" (or "The Public
-       Stack"), ~1200x400, < 8 MB. GitHub does not play .webm/.mp4 inline.
-    2. assets/hero.png — still frame of the same scene (fallback + OG image).
-    3. Make the three claude.ai artifacts shareable (private by default).
-
-  HERO: assets/hero.gif is not committed yet, so the <img> below is commented
-  out to avoid a broken image on the public profile. A branded header stands in
-  until V adds the capture. To restore, uncomment this block:
-
-  <a href="https://claude.ai/artifact/Pk74WwFaUcwvEU7KFbFDjC">
-    <img src="assets/hero.gif" alt="A.L.I.C.E Core — interactive 3D view of the orchestration layer" />
-  </a>
+  Hero: assets/alice_core.gif (animated 3D), still frame assets/alice_core.png.
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%97%88%20A.L.I.C.E%20%E2%97%88-organic%20%C2%B7%20local--first%20%C2%B7%20orchestrated-0b0d12?style=for-the-badge&labelColor=0b0d12&color=22d3ee" alt="A.L.I.C.E — organic, local-first, orchestrated" />
+  <a href="https://claude.ai/artifact/Pk74WwFaUcwvEU7KFbFDjC">
+    <img src="assets/alice_core.gif" alt="A.L.I.C.E Core — interactive 3D view of the orchestration layer" width="100%" />
+  </a>
 </p>
 <p align="center">
   <sub>

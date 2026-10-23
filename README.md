@@ -1,197 +1,131 @@
-<!-- Header -->
-<p align="center"><img src="assets/header.svg?v=15" alt="V0" width="100%" /></p>
+<!--
+  V0 — GitHub profile README (repo: vzero911/vzero911 → README.md)
+  Public-safe: no real name, no internal names, no local paths/ports/IPs,
+  rounded figures only, no absolute claims. Art direction = the 3D artifacts:
+  near-black 0b0d12, cyan 22d3ee, violet a78bfa, emerald 34d399, text c9d1d9.
+
+  TODO (V):
+    1. assets/hero.gif — 8-12 s capture of "A.L.I.C.E Core" (or "The Public
+       Stack"), ~1200x400, < 8 MB. GitHub does not play .webm/.mp4 inline.
+    2. assets/hero.png — still frame of the same scene (fallback + OG image).
+    3. Make the three claude.ai artifacts shareable (private by default).
+
+  HERO: assets/hero.gif is not committed yet, so the <img> below is commented
+  out to avoid a broken image on the public profile. A branded header stands in
+  until V adds the capture. To restore, uncomment this block:
+
+  <a href="https://claude.ai/artifact/Pk74WwFaUcwvEU7KFbFDjC">
+    <img src="assets/hero.gif" alt="A.L.I.C.E Core — interactive 3D view of the orchestration layer" />
+  </a>
+-->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/42-Student-000000?style=for-the-badge&logo=42&logoColor=white&labelColor=07060f" alt="42 Student" />
-  <img src="https://img.shields.io/badge/Web3-Builder-f2c14e?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=07060f" alt="Web3 builder" />
-  <img src="https://img.shields.io/badge/AI-Agents%20%26%20MCP-8f6cf0?style=for-the-badge&logo=modelcontextprotocol&logoColor=white&labelColor=07060f" alt="AI agents" />
-  <img src="https://img.shields.io/badge/Open%20to-Freelance-5fd38d?style=for-the-badge&labelColor=07060f" alt="Open to Freelance" />
+  <img src="https://img.shields.io/badge/%E2%97%88%20A.L.I.C.E%20%E2%97%88-organic%20%C2%B7%20local--first%20%C2%B7%20orchestrated-0b0d12?style=for-the-badge&labelColor=0b0d12&color=22d3ee" alt="A.L.I.C.E — organic, local-first, orchestrated" />
 </p>
-<!-- metrics widget — real project stats from local machine -->
-<p align="center"><img src="assets/metrics.svg" alt="V0 Metrics" width="100%" /></p>
-<!-- /metrics -->
-<!-- skills widget — languages, frameworks, infra, domains -->
-<p align="center"><img src="assets/skills.svg" alt="V0 Skills" width="100%" /></p>
-<!-- /skills -->
+<p align="center">
+  <sub>
+    Live 3D &nbsp;—&nbsp; private artifacts, open on request &nbsp;·&nbsp;
+    <a href="https://claude.ai/artifact/Pk74WwFaUcwvEU7KFbFDjC">A.L.I.C.E Core</a> &nbsp;·&nbsp;
+    <a href="https://claude.ai/artifact/DVeJj778Ccmdtgpeh7JkMU">THESEED Layer Zero</a> &nbsp;·&nbsp;
+    <a href="https://claude.ai/artifact/88ZY1cVwBZySPfCu3jBbUk">The Public Stack</a>
+  </sub>
+</p>
 
-## 👋 About me
+<h1 align="center">V0</h1>
 
-```python
-class V0:
-    school      = "42"
-    roles       = ["Full-Stack Developer", "AI Developer", "Blockchain Developer", "Software Engineer"]
-    learning    = ["Kernel", "DevOps", "Cybersecurity"]
-    building    = ["🌱 The Seed — Blockchain/Data", "🔮 A.L.I.C.E — AI agent framework",
-                   "🎮 TOA Infernal — dark fantasy game", "🤖 AGENTS — Autonomous AI fleet"]
-    powered_by  = "ALICE"
-    style       = "ship clean, test twice, automate everything"
-    remote      = True
-    available   = True  # freelance missions & collaborations
-    looking_for = ["3D artists", "2D artists / illustrators", "UI artists"]
+<p align="center">
+  Building <b>A.L.I.C.E</b> — an organic, local-first AI that orchestrates its own stack,<br/>
+  from agents and tools down to a Layer&nbsp;0 chain.
+</p>
+
+<p align="center"><i>Dream Higher, Assume Later.</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/42-student-0b0d12?style=flat-square&logo=42&logoColor=c9d1d9" alt="42 student" />
+  <img src="https://img.shields.io/badge/AI-agents%20%26%20MCP-0b0d12?style=flat-square&logo=modelcontextprotocol&logoColor=22d3ee" alt="AI agents and MCP" />
+  <img src="https://img.shields.io/badge/chain-Layer%200-0b0d12?style=flat-square&logo=ethereum&logoColor=a78bfa" alt="Layer 0 chain" />
+  <img src="https://img.shields.io/badge/local--first-yes-0b0d12?style=flat-square&logo=linux&logoColor=34d399" alt="local-first" />
+</p>
+
+<br/>
+
+## Now
+
+- **A.L.I.C.E** — the orchestrator: hundreds of MCP tools, norms and protocols that turn intent into coordinated agent work, with x402 payments in USDC on Base.
+- **THESEED** — the proof layer: an own Layer&nbsp;0 chain plus Solidity contracts (Foundry + OpenZeppelin) carrying on-chain assets.
+- **UCL** — the language: an AI-native, C++-inspired low level where tensors, weights and token streams are first-class types.
+
+## The idea
+
+One loop runs through everything: **A.L.I.C.E decides, the chain proves, the machine stays yours.**
+
+```text
+intent ──▶ A.L.I.C.E ──▶ agents · tools · norms ──▶ action
+                 │
+                 └──▶ THESEED (L0)  ──▶ proofs, assets, addressing
 ```
 
----
-
-## 🌱 Featured project — The Seed
-
-<p align="center">
-  <a href="https://github.com/VZero911/THESEED">
-    <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/30-chain-3d.png" alt="The Seed — the chain in 3D" width="860" />
-  </a>
-</p>
-
-<details>
-<summary><b>🖼️ More screens</b> (the Village art is V2 and will be replaced)</summary>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/50-battle-paused-v2.png" width="250" />
-  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/51-summon-altar-v2.png" width="250" />
-  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/49-inventory-v2.png" width="250" />
-</p>
-<p align="center"><img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/46-village-floating-island.png" alt="The Village, V2 art" width="560" /></p>
-
-</details>
-
-An evolving **Blockchain/Data** infrastructure, and its first application: a monster-collecting game where monsters, runes and items are
-**tokenized assets** you truly own, on-chain. Your identity is a **wallet**; trades between players go through
-**smart contracts** (escrow, auctions, on-chain royalties); every action is **signed for free** (gasless) and relayed by the game.
-
-| Layer | What's inside |
+| Principle | What it means in practice |
 |---|---|
-| ⛓️ **Smart contracts** | Solidity · Foundry · OpenZeppelin UUPS — tokens, NFT monsters, on-chain **marketplace** (auctions, offers, escrow), polls, achievements · 261 contract test files, upgrade-safe |
-| 🐍 **Backend** | Python · FastAPI · PostgreSQL · web3.py — SIWE login, encrypted wallet vaults, indexer, deterministic battle engine, 450+ species, 575+ stages, 272 backend test files |
-| 🎮 **Game** | Expo · React Native (mobile + web) — summons, runes, dungeons, tower, world boss, guilds, marketplace (UI V2), 88 test files |
-| 🖥️ **Admin console** | React · wagmi · **three.js** — live 3D view of the chain with wallets, block explorer, players, market, AI agents |
-| 🤖 **AI** | automation registry, agent runs, MCP servers — the project is built to run itself |
-| ✅ **Quality** | 4.5K+ unit test files, 18 browser walks on an isolated stack, security and licence scans, balance simulation |
-| 📊 **Scale** | 585K LoC · 1.2K commits · 309 contracts |
+| **Organic AI** | The AI is grown, not wired: norms and protocols shape behaviour; agents compose instead of being hard-coded. |
+| **Own Layer 0** | Proofs live on a chain we control end to end — no rented consensus. |
+| **web4 → web6 addressing** | Agents, humans and assets get addresses that outlive any single platform. Early, in progress. |
+| **Zero-dependency goal** | Every external dependency is a liability; the long-term direction is to own the stack. A direction, not a claim. |
+| **Local-first** | Runs on your hardware first. Cloud is an option, never a requirement. |
 
-<p align="center">
-  <a href="https://github.com/VZero911/THESEED"><img src="https://img.shields.io/badge/See%20the%20showcase-THESEED-8f6cf0?style=for-the-badge&logo=github&labelColor=07060f" alt="Showcase" /></a>
-</p>
+## Public work
 
-### 🌍 Why it matters in real life: a concert ticket, with the code you can see above
+| | Project | One line |
+|:-:|---|---|
+| ◈ | [**A.L.I.C.E**](https://github.com/vzero911/A.L.I.C.E) | Autonomous AI agent framework — MCP tools, norms & protocols, x402 / USDC on Base. Python. |
+| ◈ | [**THESEED**](https://github.com/vzero911/THESEED) | Layer&nbsp;0 chain + smart contracts + on-chain game assets. Solidity · Foundry · TypeScript · three.js. |
+| ◈ | [**UCL**](https://github.com/vzero911/UCL) | Unified Code Language — AI-native low-level language and its reference compiler (`.ucl`). |
+| ◈ | [**How-To-Start**](https://github.com/vzero911/How-To-Start) | Plan-first notes on how V0 projects are designed and deployed. Read before you clone. |
+| ◈ | [**42-Global**](https://github.com/vzero911/42-Global) | 42 school: C/C++ common core (libft, printf, push_swap, pipex, FdF, philosophers, CPP modules) under `old-common-core/`; ongoing work under `current-cursus/`. |
 
-The marketplace of the game is a small, tested version of how **any** asset could be traded
-without a middleman. The same four steps, on a real example, a **concert ticket**:
+## Interactive 3D
 
-| Step | In The Seed today | The same mechanism for a ticket |
-|---|---|---|
-| **1. Issue** | Only the `MintManager` contract mints a monster NFT, within a daily budget | The organizer mints exactly 5K tickets, nobody can add one |
-| **2. List** | A player signs a fixed-price sale or an auction (reserve price, anti-sniping) | A fan lists the ticket at face value; the contract can cap the price |
-| **3. Swap** | Escrow: the monster and the payment are locked together and swapped in one transaction | Money and ticket change hands at once: no scam, no "I paid but never got it" |
-| **4. Share** | 2.5 % of each sale goes to the creator, shown *before* you sign | 5 % of every resale goes to the artist, forever, without a platform |
-| **5. Prove** | Every sale is public on the chain, with its history | Provenance and authenticity of the ticket, checkable by anyone |
+The three scenes below are real, explorable three.js builds, not renders — same dark art direction as this page (cyan / violet / emerald, Chakra Petch + IBM Plex Mono). They are **private artifacts for now — open on request** (V will share access).
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/40-market-listing.png" width="250" />
-  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/44-market-offer-received.png" width="250" />
-  <img src="https://raw.githubusercontent.com/VZero911/THESEED/main/screenshots/45-market-journal.png" width="250" />
-</p>
-<p align="center"><sub>The real screens: a sale, an offer received, the journal of every trade.</sub></p>
-
-It is not a promise: the contracts are upgrade-tested, covered by invariant tests (no asset is ever
-lost or created by a trade) and wait for an audit. **Real value needs audits and a legal frame
-first.**
-
----
-
-## 🔮 A.L.I.C.E — *Powered by Alice*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/A.L.I.C.E-Alice%20Framework%20Agi-00ffcc?style=for-the-badge&labelColor=07060f" alt="ALICE" />
-  <img src="https://img.shields.io/badge/Status-Active-5fd38d?style=for-the-badge&labelColor=07060f" alt="Active" />
-  <img src="https://img.shields.io/badge/Scope-LOCAL-8f6cf0?style=for-the-badge&labelColor=07060f" alt="Local" />
-</p>
-
-**Autonomous Local Intelligence & Cybernetic Entity.**
-An AI agent framework — monitoring, automation, chain sync, self-healing. Runs fully local, zero cloud dependency.
-
-| Metric | Value |
+| Scene | Shows |
 |---|---|
-| Framework | Alice Framework Agi V0 |
-| Dashboard | 112 React panels |
-| AI modules | 279 active |
-| MCP server | MCP tools |
-| Docker | 7 containers (Ollama LLM included) |
-| Cyber tools | 274 active |
-| VulnDB | 1.2K entries |
-| Norms | 611 enforced |
-| Lines of code | 243K |
+| [A.L.I.C.E Core](https://claude.ai/artifact/Pk74WwFaUcwvEU7KFbFDjC) | The orchestration layer: how intent fans out into agents, tools and norms. |
+| [THESEED Layer Zero](https://claude.ai/artifact/DVeJj778Ccmdtgpeh7JkMU) | The chain underneath: blocks, proofs and addressing as one structure. |
+| [The Public Stack](https://claude.ai/artifact/88ZY1cVwBZySPfCu3jBbUk) | How the public repos fit together, layer by layer. |
+
+## Activity
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vzero911&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&bg_color=0b0d12&text_color=c9d1d9&icon_color=22d3ee&title_color=a78bfa&card_width=420" alt="V0 GitHub stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzero911&layout=compact&hide_title=true&hide_border=true&bg_color=0b0d12&text_color=c9d1d9&title_color=a78bfa&langs_count=8&hide=html,css,makefile&card_width=420" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com/?user=vzero911&hide_border=true&background=0b0d12&ring=34d399&fire=22d3ee&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=8b949e&stroke=1f2430&date_format=j%20M%5B%20Y%5D&card_width=840" alt="Contribution streak" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/VZero911/A.L.I.C.E"><img src="https://img.shields.io/badge/See-A.L.I.C.E-00ffcc?style=for-the-badge&logo=github&labelColor=07060f" alt="ALICE" /></a>
-  <a href="https://github.com/VZero911/AGENTS"><img src="https://img.shields.io/badge/AGENTS-Public%20Nodes-5fd38d?style=for-the-badge&logo=github&labelColor=07060f" alt="AGENTS" /></a>
+  <img src="https://img.shields.io/badge/Python-0b0d12?style=flat-square&logo=python&logoColor=c9d1d9" alt="Python" />
+  <img src="https://img.shields.io/badge/C-0b0d12?style=flat-square&logo=c&logoColor=c9d1d9" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0b0d12?style=flat-square&logo=cplusplus&logoColor=c9d1d9" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0d12?style=flat-square&logo=typescript&logoColor=c9d1d9" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Solidity-0b0d12?style=flat-square&logo=solidity&logoColor=c9d1d9" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Foundry-0b0d12?style=flat-square" alt="Foundry" />
+  <img src="https://img.shields.io/badge/three.js-0b0d12?style=flat-square&logo=threedotjs&logoColor=c9d1d9" alt="three.js" />
+  <img src="https://img.shields.io/badge/Docker-0b0d12?style=flat-square&logo=docker&logoColor=c9d1d9" alt="Docker" />
+  <img src="https://img.shields.io/badge/MCP-0b0d12?style=flat-square&logo=modelcontextprotocol&logoColor=c9d1d9" alt="MCP" />
 </p>
 
----
+## Reach
 
-## 🎮 TOA — Infernal
+Issues and discussions on any repo above are the front door — [How-To-Start](https://github.com/vzero911/How-To-Start/issues) if you don't know where to begin.
+Open to collaboration on agents, chains and languages that are meant to last.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TOA-Infernal-ea4335?style=for-the-badge&labelColor=07060f" alt="TOA Infernal" />
-  <img src="https://img.shields.io/badge/Status-In%20Progress-f2c14e?style=for-the-badge&labelColor=07060f" alt="In Progress" />
-  <img src="https://img.shields.io/badge/LoC-34.6K-c0caf5?style=for-the-badge&labelColor=07060f" alt="LoC" />
-</p>
-
-Dark fantasy game project — real-time backend, match coordination, event streaming.
-
-<p align="center">
-  <a href="https://github.com/VZero911/TOA-INFERNAL"><img src="https://img.shields.io/badge/See-TOA--INFERNAL-ea4335?style=for-the-badge&logo=github&labelColor=07060f" alt="TOA" /></a>
-</p>
-
----
-
-## 🎨 Looking for artists
-
-**The Seed** needs faces. I build the chain, the server and the game; I am looking for people to
-give it a look worth the world behind it (dark magic, floating island, a giant scary tower):
-
-- 🧊 **3D artists**: monsters, props, the Village island and its tower (glTF, low to mid poly, for three.js and mobile)
-- 🖌️ **2D artists / illustrators**: monster art and skins, rune and item icons, banners, key art
-- 🧩 **UI artists**: game screens on the V2 design tokens (gold frames, display font)
-- 🎵 *Sound and music: not yet, later.*
-
-Credit and a share of the project's contribution points (**POC**, earned, never bought) are on the
-table; real money only after audits and a legal frame. See what exists in the
-[showcase](https://github.com/VZero911/THESEED), then write me:
-[vzero911@gmail.com](mailto:vzero911@gmail.com) or Discord **vzero911**.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Looking%20for-3D%20artists-8f6cf0?style=for-the-badge&labelColor=07060f" alt="Looking for 3D artists" />
-  <img src="https://img.shields.io/badge/Looking%20for-2D%20artists-f2c14e?style=for-the-badge&labelColor=07060f" alt="Looking for 2D artists" />
-  <img src="https://img.shields.io/badge/Sound-later-5d5a6e?style=for-the-badge&labelColor=07060f" alt="Sound later" />
-</p>
-
----
-
-## 🔭 Right now
-
-- 🔮 **A.L.I.C.E** — Alice Framework Agi, 279 modules, 112 panels, 243K LoC ([A.L.I.C.E](https://github.com/VZero911/A.L.I.C.E))
-- 🌱 **The Seed** — 585K LoC, 309 contracts, marketplace V2, AI agents ([THESEED](https://github.com/VZero911/THESEED))
-- 🔧 **ALICEHUB** — centralized hub, CDT/CPT/TKN ledger, node mesh ([ALICEHUB](https://github.com/VZero911/ALICEHUB))
-- 🏗️ **THEROOT** — kernel & infrastructure backbone ([THEROOT](https://github.com/VZero911/THEROOT))
-- 🤖 **AGENTS** — autonomous public node agents, zero deps ([AGENTS](https://github.com/VZero911/AGENTS))
-- 🎮 **TOA Infernal** — dark fantasy game, 34.6K LoC ([TOA-INFERNAL](https://github.com/VZero911/TOA-INFERNAL))
-- 🎓 **42** — C, C++, algorithms, systems ([42-Public](https://github.com/VZero911/42-Public))
-- 📚 Learning **kernel**, **DevOps** and **cybersecurity**
-
----
-
-## 📬 Let's build something
-
-<p align="center">
-  <a href="mailto:vzero911@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vzero911%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07060f" alt="Email" />
-  </a>
-  <a href="https://discord.com/users/vzero911">
-    <img src="https://img.shields.io/badge/Discord-vzero911-5865f2?style=for-the-badge&logo=discord&logoColor=white&labelColor=07060f" alt="Discord" />
-  </a>
-  <a href="https://github.com/vzero911">
-    <img src="https://img.shields.io/badge/GitHub-@vzero911-c0caf5?style=for-the-badge&logo=github&logoColor=white&labelColor=07060f" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<p align="center"><img src="assets/footer.svg?v=15" alt="" width="100%" /></p>
+<p align="center"><sub>Powered by A.L.I.C.E · built local-first</sub></p>

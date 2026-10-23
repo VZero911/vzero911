@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img src="assets/alice_core.gif" alt="A.L.I.C.E Core — animated 3D view of the orchestration layer" width="100%" />
+  <img src="assets/alice_core.png" alt="A.L.I.C.E Core — 3D view of the orchestration layer" width="760" />
 </p>
 <p align="center">
   <sub>A.L.I.C.E Core &nbsp;—&nbsp; built as a live three.js scene</sub>
@@ -72,18 +72,12 @@ Real three.js builds, not static renders — same dark art direction as this pag
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="assets/alice_core.gif" alt="A.L.I.C.E Core" width="100%" /><br/>
-      <sub><b>A.L.I.C.E Core</b> — how intent fans out into agents, tools and norms.</sub>
+      <img src="assets/theseed.png" alt="THESEED Layer Zero" width="420" /><br/>
+      <sub><b>THESEED</b> — the golden L0 seed: blocks, proofs and addressing.</sub>
     </td>
     <td align="center" width="50%">
-      <img src="assets/theseed.gif" alt="THESEED Layer Zero" width="100%" /><br/>
-      <sub><b>THESEED Layer Zero</b> — blocks, proofs and addressing as one structure.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="assets/public_stack_full.png" alt="The Public Stack" width="100%" /><br/>
-      <sub><b>The Public Stack</b> — how the public repos fit together, layer by layer.</sub>
+      <img src="assets/public_stack_full.png" alt="The Public Stack" width="420" /><br/>
+      <sub><b>The Public Stack</b> — how the public repos fit together.</sub>
     </td>
   </tr>
 </table>

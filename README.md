@@ -23,7 +23,7 @@
 <p align="center"><i>Dream Higher, Assume Later.</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/42-student-0b0d12?style=flat-square&logo=42&logoColor=c9d1d9" alt="42 student" />
+  <img src="https://img.shields.io/badge/student-0b0d12?style=flat-square&logo=42&logoColor=c9d1d9" alt="42 student" />
   <img src="https://img.shields.io/badge/AI-agents%20%26%20MCP-0b0d12?style=flat-square&logo=modelcontextprotocol&logoColor=22d3ee" alt="AI agents and MCP" />
   <img src="https://img.shields.io/badge/chain-Layer%200-0b0d12?style=flat-square&logo=ethereum&logoColor=a78bfa" alt="Layer 0 chain" />
   <img src="https://img.shields.io/badge/local--first-yes-0b0d12?style=flat-square&logo=linux&logoColor=34d399" alt="local-first" />

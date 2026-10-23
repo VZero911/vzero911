@@ -3,7 +3,7 @@
   Public-safe: no real name, no internal names, no local paths/ports/IPs,
   rounded figures only, no absolute claims. Art direction = the 3D artifacts:
   near-black 0b0d12, cyan 22d3ee, violet a78bfa, emerald 34d399, text c9d1d9.
-  Hero: assets/alice_core.gif (animated 3D), still frame assets/alice_core.png.
+  Hero: assets/alice_core.png (still frame of the A.L.I.C.E three.js scene).
 -->
 
 <p align="center">

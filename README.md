@@ -119,24 +119,27 @@ Real three.js builds, not static renders — same dark art direction as this pag
 
 <p align="center"><sub><b>CLOUD &amp; INFRA</b></sub></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-0b0d12?style=flat-square&logo=amazonwebservices&logoColor=22d3ee" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0b0d12?style=flat-square&logo=microsoftazure&logoColor=22d3ee" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-0b0d12?style=flat-square&logoColor=22d3ee" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0b0d12?style=flat-square&logoColor=22d3ee" alt="Azure" />
   <img src="https://img.shields.io/badge/OVHcloud-0b0d12?style=flat-square&logo=ovh&logoColor=22d3ee" alt="OVHcloud" />
   <img src="https://img.shields.io/badge/Cloudflare-0b0d12?style=flat-square&logo=cloudflare&logoColor=22d3ee" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Docker-0b0d12?style=flat-square&logo=docker&logoColor=22d3ee" alt="Docker" />
+  <img src="https://img.shields.io/badge/Caddy-0b0d12?style=flat-square&logo=caddy&logoColor=22d3ee" alt="Caddy" />
   <img src="https://img.shields.io/badge/Linux-0b0d12?style=flat-square&logo=linux&logoColor=22d3ee" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-0b0d12?style=flat-square&logo=githubactions&logoColor=22d3ee" alt="GitHub Actions" />
 </p>
 
 <p align="center"><sub><b>BACKEND &amp; WEB</b></sub></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/React-0b0d12?style=flat-square&logo=react&logoColor=a78bfa" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0b0d12?style=flat-square&logo=nextdotjs&logoColor=a78bfa" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-0b0d12?style=flat-square&logo=vite&logoColor=a78bfa" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0b0d12?style=flat-square&logo=tailwindcss&logoColor=a78bfa" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/three.js-0b0d12?style=flat-square&logo=threedotjs&logoColor=a78bfa" alt="three.js" />
   <img src="https://img.shields.io/badge/Node.js-0b0d12?style=flat-square&logo=nodedotjs&logoColor=a78bfa" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-0b0d12?style=flat-square&logo=fastapi&logoColor=a78bfa" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-0b0d12?style=flat-square&logo=nextdotjs&logoColor=a78bfa" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-0b0d12?style=flat-square&logo=react&logoColor=a78bfa" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-0b0d12?style=flat-square&logo=postgresql&logoColor=a78bfa" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-0b0d12?style=flat-square&logo=sqlite&logoColor=a78bfa" alt="SQLite" />
-  <img src="https://img.shields.io/badge/three.js-0b0d12?style=flat-square&logo=threedotjs&logoColor=a78bfa" alt="three.js" />
 </p>
 
 <p align="center"><sub><b>CHAIN &amp; AI</b></sub></p>
